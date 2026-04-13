@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .claims one-word domains from Uniq
 
 **Public extract:** 9,469 rows · **Live catalog:** 9,469 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/claims`  
 **Best for:** founders, investors, studios
 
@@ -80,7 +80,7 @@ print(df.head())
 | shop.claims     | resell    | —         | —             | 78             | 54     | 4      | Sav.com, LLC   |
 | gold.claims     | premium   | $520      | $520          | 72             | 48     | 4      | namecheap      |
 | genius.claims   | available | $19.99    | $86.99        | 98             | 45     | 6      | name.com       |
-| best.claims     | resell    | —         | —             | 82             | 53     | 4      | Dynadot Inc    |
+| best.claims     | resell    | —         | —             | 82             | 52     | 4      | Dynadot Inc    |
 | trade.claims    | premium   | $128.70   | $128.70       | 116            | 46     | 5      | namecheap      |
 | creative.claims | available | $19.99    | $86.99        | 92             | 45     | 8      | name.com       |
 | world.claims    | resell    | —         | —             | 88             | 51     | 5      | InterNetX GmbH |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLAIMS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLAIMS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
