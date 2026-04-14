@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C469%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C470%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C469%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .claims one-word domains from Uniq
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,469 rows · **Live catalog:** 9,469 domains
+**Public extract:** 9,470 rows · **Live catalog:** 9,469 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/claims`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .CLAIMS one-word domai
 
 ### Files
 
-- `claims.csv` — public CSV extract (9,469 rows)
-- `claims.json` — public JSON extract (9,469 rows)
+- `claims.csv` — public CSV extract (9,470 rows)
+- `claims.json` — public JSON extract (9,470 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -73,7 +73,7 @@ print(df.head())
 | game.claims     | available | $19.99    | $86.99        | 120            | 50     | 4      | name.com       |
 | live.claims     | resell    | —         | —             | 108            | 56     | 4      | Dynadot Inc    |
 | travel.claims   | premium   | $1,040    | $1,040        | 115            | 48     | 6      | namecheap      |
-| design.claims   | available | $19.99    | $86.99        | 108            | 50     | 6      | name.com       |
+| design.claims   | available | $19.99    | $86.99        | 108            | 49     | 6      | name.com       |
 | smart.claims    | resell    | —         | —             | 74             | 56     | 5      | Sav.com, LLC   |
 | all.claims      | premium   | $500      | $500          | 88             | 48     | 3      | name.com       |
 | snap.claims     | available | $19.99    | $86.99        | 90             | 46     | 4      | name.com       |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,469-row public sample | 9,469 live domains                               |
+| 9,470-row public sample | 9,469 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLAIMS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLAIMS One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
