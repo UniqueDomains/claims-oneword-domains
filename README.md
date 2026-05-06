@@ -1,10 +1,10 @@
-# Available .CLAIMS One-Word Domains (12,436)
+# Available .CLAIMS One-Word Domains (12,438)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C436%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C438%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .claims one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,436 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,438 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,436 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,438 domains · **Median ask:** $31.19 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/claims`  
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,13 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Acup.claims         | available | $82.98    | —             | 80             | 5      | 5      | namecheap |
 | WiFi.claims         | available | $82.98    | —             | 83             | 37     | 5      | namecheap |
+| barup.claims        | available | $19.99    | —             | 82             | 2      | 6      | name.com  |
+| Apples.claims       | available | $82.98    | —             | 90             | 16     | 6      | namecheap |
+| playin.claims       | available | $19.99    | —             | 80             | 10     | 7      | name.com  |
+| dogsick.claims      | available | $19.99    | —             | 90             | 1      | 7      | name.com  |
+| getlife.claims      | available | $19.99    | —             | 80             | 5      | 8      | name.com  |
 | online.claims       | premium   | $123.75   | —             | 70             | 62     | 7      | name.com  |
 | neuroscience.claims | available | $19.99    | —             | 80             | 37     | 12     | name.com  |
 | homes.claims        | premium   | $500      | —             | 86             | 34     | 5      | name.com  |
@@ -78,12 +84,6 @@ print(df.head())
 | photos.claims       | available | $19.99    | —             | 54             | 28     | 6      | name.com  |
 | pages.claims        | available | $19.99    | —             | 52             | 28     | 5      | name.com  |
 | backyard.claims     | available | $19.99    | —             | 80             | 27     | 9      | name.com  |
-| KFC.claims          | available | $82.98    | —             | 74             | 27     | 3      | namecheap |
-| systems.claims      | available | $19.99    | —             | 46             | 27     | 7      | name.com  |
-| trades.claims       | available | $19.99    | —             | 71             | 26     | 6      | name.com  |
-| sites.claims        | available | $19.99    | —             | 53             | 26     | 5      | name.com  |
-| destination.claims  | available | $19.99    | —             | 90             | 25     | 11     | name.com  |
-| whats.claims        | available | $19.99    | —             | 58             | 24     | 5      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,436 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,438 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is defined by one constraint: the domain ends in .claims. That creates a very specific naming set. Some entries read as direct claim-related keywords, while others are generic words adapted to the extension, such as Acup.claims, WiFi.claims, finals.claims, and forces.claims. For founders, the key question is whether the full domain reads clearly and feels ownable in context. For investors, the main check is whether the word and extension pair support realistic buyer intent at the current ask. With a median ask of 31.19, pricing may be approachable, but the extension itself still needs to carry the commercial meaning.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Check whether the word reads naturally with .claims
+- Favor clear, memorable words over awkward pairings
+- Use the 31.19 median ask as a basic pricing anchor
+- Be stricter on renewal risk with niche extensions
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLAIMS One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLAIMS One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
