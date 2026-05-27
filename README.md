@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .claims one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,442 domains · **Median ask:** $31.19 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/claims`  
 **Best for:** founders, investors, studios
 
@@ -76,9 +76,9 @@ print(df.head())
 | homes.claims        | premium   | $500      | —             | 86             | 34     | 5      | name.com  |
 | spectra.claims      | available | $19.99    | —             | 62             | 34     | 7      | name.com  |
 | SanDiego.claims     | premium   | $500      | —             | 74             | 29     | 9      | name.com  |
-| etc.claims          | available | $19.99    | —             | 58             | 34     | 3      | name.com  |
+| etc.claims          | available | $19.99    | —             | 58             | 32     | 3      | name.com  |
 | veterans.claims     | premium   | $500      | —             | 56             | 23     | 8      | name.com  |
-| partners.claims     | available | $19.99    | —             | 61             | 32     | 8      | name.com  |
+| partners.claims     | available | $19.99    | —             | 61             | 31     | 8      | name.com  |
 | maps.claims         | available | $19.99    | —             | 56             | 31     | 4      | name.com  |
 | quotes.claims       | available | $19.99    | —             | 58             | 29     | 6      | name.com  |
 | photos.claims       | available | $19.99    | —             | 54             | 28     | 6      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLAIMS One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLAIMS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
