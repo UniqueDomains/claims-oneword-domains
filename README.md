@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .claims one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,442 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,442 domains · **Median ask:** $31.19 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,442 domains · **Median ask:** $27.19 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/claims`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/claims`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CLAIMS one-word domai
 
 ### Files
 
-- `claims.csv` — public CSV extract (1,000 rows)
-- `claims.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `claims.csv`, public CSV extract (1,000 rows)
+- `claims.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Acup.claims         | available | $82.98    | —             | 80             | 5      | 5      | namecheap |
-| WiFi.claims         | available | $82.98    | —             | 83             | 37     | 5      | namecheap |
-| barup.claims        | available | $19.99    | —             | 82             | 2      | 6      | name.com  |
-| Apples.claims       | available | $82.98    | —             | 90             | 16     | 6      | namecheap |
-| playin.claims       | available | $19.99    | —             | 80             | 10     | 7      | name.com  |
-| dogsick.claims      | available | $19.99    | —             | 90             | 1      | 7      | name.com  |
-| getlife.claims      | available | $19.99    | —             | 80             | 5      | 8      | name.com  |
-| online.claims       | premium   | $123.75   | —             | 70             | 62     | 7      | name.com  |
-| neuroscience.claims | available | $19.99    | —             | 80             | 37     | 12     | name.com  |
-| homes.claims        | premium   | $500      | —             | 86             | 34     | 5      | name.com  |
-| spectra.claims      | available | $19.99    | —             | 62             | 34     | 7      | name.com  |
-| SanDiego.claims     | premium   | $500      | —             | 74             | 29     | 9      | name.com  |
-| etc.claims          | available | $19.99    | —             | 58             | 32     | 3      | name.com  |
-| veterans.claims     | premium   | $500      | —             | 56             | 23     | 8      | name.com  |
-| partners.claims     | available | $19.99    | —             | 61             | 31     | 8      | name.com  |
-| maps.claims         | available | $19.99    | —             | 56             | 31     | 4      | name.com  |
-| quotes.claims       | available | $19.99    | —             | 58             | 29     | 6      | name.com  |
-| photos.claims       | available | $19.99    | —             | 54             | 28     | 6      | name.com  |
-| pages.claims        | available | $19.99    | —             | 52             | 28     | 5      | name.com  |
-| backyard.claims     | available | $19.99    | —             | 80             | 27     | 9      | name.com  |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| add.claims    | available | $19.99    | —             | high           | low    | 3      | name.com                                    |
+| bond.claims   | resell    | —         | —             | high           | low    | 4      | GoDaddy Online Services Cayman Islands Ltd. |
+| dot.claims    | premium   | $500      | —             | high           | medium | 3      | name.com                                    |
+| are.claims    | available | $19.99    | —             | high           | low    | 3      | name.com                                    |
+| safe.claims   | resell    | —         | —             | high           | medium | 4      | NameCheap, Inc.                             |
+| sex.claims    | premium   | $500      | —             | high           | medium | 3      | name.com                                    |
+| ask.claims    | available | $19.99    | —             | high           | medium | 3      | name.com                                    |
+| write.claims  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                            |
+| Iam.claims    | premium   | $854      | $854          | high           | medium | 4      | namesilo                                    |
+| bar.claims    | available | $19.99    | —             | high           | low    | 3      | name.com                                    |
+| ohio.claims   | premium   | $500      | —             | high           | low    | 4      | name.com                                    |
+| bid.claims    | available | $19.99    | —             | high           | low    | 3      | name.com                                    |
+| first.claims  | premium   | $1,000    | $1,000        | high           | medium | 5      | name.com                                    |
+| con.claims    | available | $19.99    | —             | high           | low    | 3      | name.com                                    |
+| motor.claims  | premium   | $1,040    | $1,040        | high           | low    | 5      | namecheap                                   |
+| dew.claims    | available | $19.99    | —             | medium         | low    | 3      | name.com                                    |
+| berlin.claims | premium   | $500      | —             | high           | low    | 6      | name.com                                    |
+| did.claims    | available | $19.99    | —             | high           | low    | 3      | name.com                                    |
+| sports.claims | premium   | $128.70   | $128.70       | high           | medium | 6      | namecheap                                   |
+| far.claims    | available | $19.99    | —             | high           | low    | 3      | name.com                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is defined by one constraint: the domain ends in .claims. That creates a very specific naming set. Some entries read as direct claim-related keywords, while others are generic words adapted to the extension, such as Acup.claims, WiFi.claims, finals.claims, and forces.claims. For founders, the key question is whether the full domain reads clearly and feels ownable in context. For investors, the main check is whether the word and extension pair support realistic buyer intent at the current ask. With a median ask of 31.19, pricing may be approachable, but the extension itself still needs to carry the commercial meaning.
+This list covers single-word domain names on the .claims TLD, spanning everyday nouns and compound words like homes.claims, pictures.claims, and restassured.claims. With 12,442 names and a median asking price near $27, the selection suits insurance, legal, and warranty-related brands looking for a clear, category-specific web address. Updated daily, it reflects current asking prices across the full range of one-word .claims options.
 
-- Check whether the word reads naturally with .claims
-- Favor clear, memorable words over awkward pairings
-- Use the 31.19 median ask as a basic pricing anchor
-- Be stricter on renewal risk with niche extensions
+- 12,442 single-word .claims domains available for evaluation
+- Median asking price near $27 across this selection
+- Compound one-word names like homes.claims, pictures.claims
+- Well-suited for insurance, warranty, and legal claims brands
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLAIMS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLAIMS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
