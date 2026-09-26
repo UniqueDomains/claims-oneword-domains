@@ -1,10 +1,10 @@
-# Available .CLAIMS One-Word Domains (13,795)
+# Available .CLAIMS One-Word Domains (22,877)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C795%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C877%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .claims one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **13,795 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,877 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 13,795 domains · **Median ask:** $17.07 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 22,877 domains · **Median ask:** $18.70 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/claims`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| add.claims    | available | $19.99    | —             | high           | low    | 3      | name.com                                    |
-| bond.claims   | resell    | —         | —             | high           | low    | 4      | GoDaddy Online Services Cayman Islands Ltd. |
-| sex.claims    | premium   | $500      | —             | high           | medium | 3      | name.com                                    |
-| are.claims    | available | $19.99    | —             | high           | low    | 3      | name.com                                    |
-| safe.claims   | resell    | —         | —             | high           | medium | 4      | NameCheap, Inc.                             |
-| tel.claims    | premium   | $854      | $854          | high           | low    | 3      | namesilo                                    |
-| ask.claims    | available | $19.99    | —             | high           | medium | 3      | name.com                                    |
-| write.claims  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                            |
-| ohio.claims   | premium   | $500      | —             | high           | low    | 4      | name.com                                    |
-| aug.claims    | available | $11.98    | $82.98        | high           | low    | 3      | namecheap                                   |
-| group.claims  | premium   | $520      | $520          | high           | low    | 5      | namecheap                                   |
-| azo.claims    | available | $11.98    | $82.98        | high           | low    | 3      | namecheap                                   |
-| motor.claims  | premium   | $1,040    | $1,040        | high           | low    | 5      | namecheap                                   |
-| bar.claims    | available | $19.99    | —             | high           | low    | 3      | name.com                                    |
-| berlin.claims | premium   | $500      | —             | high           | low    | 6      | name.com                                    |
-| bee.claims    | available | $19.99    | —             | high           | medium | 3      | name.com                                    |
-| oregon.claims | premium   | $500      | —             | high           | low    | 6      | name.com                                    |
-| bid.claims    | available | $19.99    | —             | high           | low    | 3      | name.com                                    |
-| sports.claims | premium   | $128.70   | $128.70       | high           | medium | 6      | namecheap                                   |
-| boo.claims    | available | $19.99    | —             | high           | low    | 3      | name.com                                    |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| bad.claims    | available | $17.99    | $64.99        | high           | medium | 3      | namesilo                                                  |
+| art.claims    | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| fast.claims   | premium   | $128.70   | $128.70       | high           | medium | 4      | namecheap                                                 |
+| cry.claims    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| coffee.claims | resell    | —         | —             | high           | medium | 6      | NameCheap, Inc.                                           |
+| land.claims   | premium   | $520      | $520          | high           | low    | 4      | namecheap                                                 |
+| cup.claims    | available | $11.98    | $82.98        | high           | low    | 3      | namecheap                                                 |
+| day.claims    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| eon.claims    | available | $17.99    | $64.99        | high           | low    | 3      | namesilo                                                  |
+| fla.claims    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| gil.claims    | available | $17.99    | $64.99        | high           | low    | 3      | namesilo                                                  |
+| ill.claims    | available | $17.99    | $64.99        | high           | low    | 3      | namesilo                                                  |
+| lan.claims    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| min.claims    | available | $11.98    | $82.98        | high           | low    | 3      | namecheap                                                 |
+| mum.claims    | available | $17.99    | $64.99        | high           | low    | 3      | namesilo                                                  |
+| oak.claims    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| pin.claims    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| rgb.claims    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| roy.claims    | available | $17.99    | $64.99        | high           | low    | 3      | namesilo                                                  |
+| sky.claims    | available | $19.99    | —             | high           | medium | 3      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 13,795 live domains                        |
+| 1,000-row public sample | 22,877 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 1 high-demand names under $2,500           |
+| Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLAIMS One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLAIMS One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
