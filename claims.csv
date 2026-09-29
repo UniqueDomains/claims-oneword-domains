@@ -2,27 +2,34 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 df47f282-d609-4cb1-a9e3-f12e0c0b2462,verbose.claims,available,11.98,82.98,medium,low,7,namecheap,,,24/08/2026 09:27
 8bce2752-c6a1-4fe9-98ce-a68f85eed95c,compelling.claims,available,11.98,82.98,high,low,10,namecheap,,,23/09/2026 17:02
 0ff26e23-5bfb-4b0c-85ed-7159dd554363,bindery.claims,available,17.99,64.99,medium,low,7,namesilo,,,23/09/2026 17:11
+f74b86d7-994c-4428-8ad8-ba11a6c2b594,jin.claims,available,17.99,64.99,high,low,3,namesilo,,,28/09/2026 07:26
 ce159b88-e0d8-4d59-8e80-e5114f81e964,embonpoint.claims,available,11.98,82.98,medium,low,10,namecheap,,,12/08/2026 07:33
 0d362951-8ce2-495b-9f20-3d20c30cac36,decreed.claims,available,11.98,82.98,medium,low,7,namecheap,,,13/08/2026 22:14
 05579ba0-176b-4a41-86d7-3e36384d9660,luculent.claims,available,11.98,82.98,medium,low,8,namecheap,,,24/08/2026 10:52
+30343d18-a1b8-4bb4-8c3b-094a2b68c2a1,macaulay.claims,available,17.99,64.99,medium,low,8,namesilo,,,28/09/2026 14:12
 ea6ab9f8-06cd-4f85-b541-c21074c685f0,dormie.claims,available,11.98,82.98,medium,low,6,namecheap,,,14/08/2026 16:21
 c686f3e5-e39b-4ba9-8d52-2acd146677af,evolve.claims,available,19.99,,high,low,6,name.com,,,
 ce296c93-f1c5-4d31-8f4b-259327b27c61,wigeon.claims,available,11.98,82.98,medium,low,6,namecheap,,,19/09/2026 03:00
 ae8cc10e-ea63-440c-a6ba-3502b995dc07,chessman.claims,available,17.99,64.99,medium,low,8,namesilo,,,24/09/2026 14:20
+a7db32f4-fee5-4e8a-b783-7885e2db6113,patty.claims,available,50.2,50.2,high,low,5,cloudflare,,,28/09/2026 20:09
 3998bab5-a794-48ba-b1bc-07e6a49f4d67,marijuana.claims,available,19.99,,high,low,9,name.com,,,
 1cb0c01a-024e-4331-adb0-2d1d1668549b,nonlinear.claims,available,11.98,82.98,medium,low,9,namecheap,,,03/09/2026 19:44
 20d6a322-7113-47df-9938-5c10ab74fe1e,honeyed.claims,available,11.98,82.98,medium,low,7,namecheap,,,21/08/2026 13:23
 16d932f4-9125-4508-a769-4b41f987d3d7,beamish.claims,available,11.98,82.98,medium,low,7,namecheap,,,09/08/2026 04:08
 d533bdfb-613d-4a26-9211-ac3619f0d1bd,elastic.claims,available,11.98,82.98,high,low,7,namecheap,,,16/08/2026 00:43
 0f7f97cd-24a3-4b8a-89d4-e57bbfbe52cd,ames.claims,available,11.98,82.98,high,low,4,namecheap,,,25/09/2026 12:32
+b41fb4e2-89ac-49ab-8455-34c9afed27bb,tar.claims,available,17.99,64.99,medium,low,3,namesilo,,,29/09/2026 01:06
+a9597764-27ec-4dc2-8de4-da8731c9129a,dorothea.claims,available,17.99,64.99,medium,low,8,namesilo,,,28/09/2026 07:54
 7eafa985-0437-490f-9991-fb80f425f920,dextrous.claims,available,11.98,82.98,high,low,8,namecheap,,,13/08/2026 23:53
 874d7326-38c3-4b5d-9fd9-2a4781ce1522,scotchtape.claims,available,17.99,64.99,high,low,11,namesilo,,,16/09/2026 11:38
 cc5b650a-77b6-4cbd-ab05-07377dc2c5a2,aerie.claims,available,,,high,medium,5,,,,
 d207c666-b9c7-4c3b-ab0a-0182bdbc3865,unreadable.claims,available,11.98,82.98,medium,low,10,namecheap,,,22/08/2026 02:25
 2f049b98-70be-48be-9a06-53e26583bf15,cbc.claims,available,10.55,51.95,high,low,3,spaceship,,,28/09/2026 00:59
-ecdb1ea2-4420-4b49-b310-721c55fce40b,club.claims,available,19.99,,high,low,4,name.com,,,
-3e14b521-2f1c-4688-b9a0-fabb73633937,currently.claims,available,19.99,,high,low,9,name.com,,,
+ecdb1ea2-4420-4b49-b310-721c55fce40b,club.claims,available,10.55,51.95,high,medium,4,spaceship,,,29/09/2026 00:44
+3e14b521-2f1c-4688-b9a0-fabb73633937,currently.claims,available,17.99,64.99,medium,low,9,namesilo,,,28/09/2026 14:29
+c792de06-aad4-4000-a28f-a411a7112322,conventional.claims,available,17,,medium,low,12,unstoppable,,,28/09/2026 11:12
 a3f4eca2-343d-44f9-9bfd-7a5b48c880d3,credendum.claims,available,17.99,64.99,medium,low,9,namesilo,,,20/09/2026 11:13
+fec12327-48e7-46dd-ad09-0e05320c567a,blacks.claims,available,10.55,51.95,low,low,6,spaceship,,,28/09/2026 18:09
 bf211a6f-e23f-4fa1-9a20-112a1e1b06f3,cheat.claims,available,11.98,82.98,high,low,5,namecheap,,,12/08/2026 03:31
 d3befe76-f90d-4435-90a1-bb4ef1ce8a3d,saccharine.claims,available,11.98,82.98,medium,low,10,namecheap,,,12/08/2026 12:48
 b5ef13a4-10a5-4180-9f3b-2a2868dc0f9f,behaviours.claims,available,17.99,64.99,medium,low,10,namesilo,,,20/09/2026 22:06
@@ -48,6 +55,7 @@ c9532692-e007-4d5a-a585-9a3105710005,columbine.claims,available,17.99,64.99,medi
 7c1a96f0-2711-4943-819e-cd8c14c5c27c,slanted.claims,available,11.98,82.98,medium,low,7,namecheap,,,07/08/2026 04:15
 6ef0bcc2-f612-4654-814d-3686648e9074,abaya.claims,available,17.99,64.99,medium,low,5,namesilo,,,16/09/2026 14:18
 5e127323-4ede-4fd5-b52b-04e7ceecb5f5,donaldson.claims,available,17.99,64.99,medium,low,9,namesilo,,,27/09/2026 01:45
+b1063e09-1d4e-4537-900d-9a254691adba,jeans.claims,available,17.99,64.99,medium,low,5,namesilo,,,28/09/2026 12:09
 17519a06-3dae-4f08-bbb5-ee8ddd88dc68,exit.claims,available,19.99,,high,low,4,name.com,,,
 d5588fad-fabb-48fb-8052-359d1250f51d,russians.claims,available,17.99,64.99,medium,low,8,namesilo,,,27/09/2026 10:58
 597b14c7-0bc6-499a-a7c9-dfada4cc4bfd,venushair.claims,available,17.99,64.99,medium,low,9,namesilo,,,17/09/2026 08:07
@@ -61,32 +69,36 @@ ee787f8f-971f-4bdb-b42e-f33864934d99,blase.claims,available,11.98,82.98,medium,l
 fa847e70-d8c4-4aeb-9714-7b879489d21e,tramp.claims,available,11.98,82.98,high,low,5,namecheap,,,10/09/2026 22:07
 13a0075d-ec85-43ba-a94b-5cf038654690,elderly.claims,available,17.99,64.99,high,low,7,namesilo,,,21/09/2026 22:30
 55b3066a-79c5-446b-aee4-7b17db466467,handy.claims,available,11.98,82.98,high,low,5,namecheap,,,20/08/2026 23:39
-76ea70dd-7ad1-47e8-ad96-76fe230a5712,swap.claims,available,19.99,,high,low,4,name.com,,,
 49ac61e2-135f-4257-aaeb-cfb03116dcc4,marino.claims,available,11.98,82.98,high,low,6,namecheap,,,27/09/2026 04:14
 e20cf4aa-367c-465a-9cf2-99b12e05d3f9,antiquity.claims,available,11.98,82.98,medium,low,9,namecheap,,,19/09/2026 03:50
 87efa268-18a1-4eab-b9a9-53737791d78b,athos.claims,available,11.98,82.98,medium,low,5,namecheap,,,20/09/2026 21:17
 0a668320-e610-4e41-87da-645efcab5e42,stunted.claims,available,11.98,82.98,medium,low,7,namecheap,,,10/09/2026 23:04
 2669d919-2160-45d0-af0a-cca33e90f282,nafud.claims,available,17.99,64.99,medium,low,5,namesilo,,,19/09/2026 00:44
+e332ae86-4012-433b-a0b4-2d72db39157e,resigned.claims,available,50.2,50.2,low,low,8,cloudflare,,,28/09/2026 17:54
 dbbbd439-3020-46b8-ae94-df907f40d14b,yea.claims,available,17.99,64.99,high,low,3,namesilo,,,16/09/2026 11:48
 9116326e-987e-4884-8455-5abf2989ba3c,deadening.claims,available,11.98,82.98,medium,low,9,namecheap,,,10/08/2026 19:57
 d77b916f-8097-420e-819f-ea66008257d0,wade.claims,available,17.99,64.99,high,low,4,namesilo,,,28/09/2026 06:51
 373303b3-bfaa-4f4f-970f-28f4c0fad124,plumbing.claims,available,17.99,64.99,high,low,8,namesilo,,,22/09/2026 13:57
 a56d827a-24fe-478e-a542-86b29d25baa6,albatross.claims,available,11.98,82.98,high,low,9,namecheap,,,18/09/2026 02:28
 d8336e64-a1d5-41b2-a60d-83fe38aa31b8,secretive.claims,available,11.98,82.98,medium,low,9,namecheap,,,12/08/2026 12:18
+395e5864-65ba-49ec-924e-1e71ff2d27aa,insensitive.claims,available,17.99,64.99,medium,low,11,namesilo,,,29/09/2026 03:19
 08bc2057-1059-42e9-816f-604a2c3d8457,jack.claims,available,19.99,,high,medium,4,name.com,,,
 9ed6b855-b4c4-4ed9-8c01-3aa3b0f30242,auspice.claims,available,17.99,64.99,high,low,7,namesilo,,,21/09/2026 04:36
 a061eea3-623e-43c1-af57-9d88edb3e5e1,sheets.claims,available,17.99,64.99,medium,low,6,namesilo,,,27/09/2026 02:20
 9ac6b4b0-6abd-4ff0-8fd2-fb8aaf020907,billet.claims,available,11.98,82.98,high,low,6,namecheap,,,23/09/2026 10:14
 bc53564f-adee-4d29-97d3-3e942fef7664,multiplayer.claims,available,19.99,,high,low,11,name.com,,,
 a78957cc-8a1e-491c-bba5-2b1d57355a4c,bistre.claims,available,11.98,82.98,medium,low,6,namecheap,,,23/09/2026 22:12
+b6f3be05-82eb-4e55-80d3-c04930e9c2ea,wehrmacht.claims,available,50.2,50.2,medium,low,9,cloudflare,,,28/09/2026 16:22
 913343b3-173c-469d-a760-962ae23fcfe8,hypocrite.claims,available,11.98,82.98,medium,low,9,namecheap,,,08/09/2026 19:08
-76e7d3ce-48a5-482d-aacb-50e5b23538f3,brow.claims,available,19.99,,high,low,4,name.com,,,
+76e7d3ce-48a5-482d-aacb-50e5b23538f3,brow.claims,available,17.99,64.99,medium,low,4,namesilo,,,29/09/2026 04:36
 d1f3d423-5e88-48e0-b13c-27963fd0dd1e,specialized.claims,available,19.99,,high,low,11,name.com,,,
 25ad5524-6b0b-44d1-a18e-5e1055d5d825,bench.claims,available,17.99,64.99,high,low,5,namesilo,,,23/09/2026 07:36
 b28877fc-a1e8-4845-a98b-e787479603fc,labelled.claims,available,11.98,82.98,medium,low,8,namecheap,,,22/08/2026 17:15
 6a038b51-e07d-4fcc-864e-8d4dfb5abd64,taunton.claims,available,17.99,64.99,medium,low,7,namesilo,,,28/09/2026 05:05
+34efa835-f29a-469c-8c6a-4de6e2ea7afc,coordinator.claims,available,11.98,82.98,high,low,11,namecheap,,,28/09/2026 21:26
 e822551f-2ab7-48ae-bec3-5f4cb2ba475c,tweet.claims,available,19.99,,high,low,5,name.com,,,
 da331221-0748-4b07-a8e3-3213517d06e9,cupboards.claims,available,17.99,64.99,medium,low,9,namesilo,,,20/09/2026 06:12
+2396c953-0056-428c-bca2-5573e79a62e9,movements.claims,available,17.99,64.99,low,low,9,namesilo,,,28/09/2026 12:36
 fbca148a-dab0-41a1-ad96-b0ffc189dd08,amplifier.claims,available,11.98,82.98,high,low,9,namecheap,,,18/09/2026 23:40
 9dcc9e02-984b-4a20-a345-f55e8403700d,tolu.claims,available,17.99,64.99,medium,low,4,namesilo,,,22/09/2026 00:08
 4cb5c6e8-4e55-4df4-85c6-1b99aa80f60a,civilly.claims,available,11.98,82.98,medium,low,7,namecheap,,,14/09/2026 06:57
@@ -95,6 +107,7 @@ fbca148a-dab0-41a1-ad96-b0ffc189dd08,amplifier.claims,available,11.98,82.98,high
 e19572e3-0d64-45ce-b688-21020ce849d1,taught.claims,available,17.99,64.99,medium,low,6,namesilo,,,27/09/2026 02:04
 ecd61127-322f-4095-b4f3-e4bb183d63d0,connolly.claims,available,17.99,64.99,high,low,8,namesilo,,,25/09/2026 22:17
 0e45fd6c-0f86-4cab-82ac-bd74b4e7a466,aldehyde.claims,available,17.99,64.99,high,low,8,namesilo,,,18/09/2026 04:24
+4307ad0d-394b-4e9b-93f3-6ff33da8211b,operational.claims,available,11.98,82.98,high,low,11,namecheap,,,28/09/2026 07:11
 cd2a78e0-a776-411c-92e3-6d71a36d05c9,guerilla.claims,available,11.98,82.98,high,low,8,namecheap,,,22/08/2026 10:15
 0402fa54-ca92-4810-b2a5-1e65d8f16dab,distaff.claims,available,11.98,82.98,medium,low,7,namecheap,,,14/08/2026 13:01
 c6920387-879b-4658-b002-6c1051f69eff,lure.claims,available,17.99,64.99,high,low,4,namesilo,,,21/09/2026 19:43
@@ -123,7 +136,7 @@ a3347e43-e610-47a5-b504-055fc301de8f,lucerne.claims,available,17.99,64.99,high,l
 5cfbbc76-f831-4a71-b1a2-eed0d231d90f,inertial.claims,available,11.98,82.98,medium,low,8,namecheap,,,22/08/2026 03:59
 e4dc13a5-1d25-4894-aeaa-7a2c8bbef5e8,autarchic.claims,available,11.98,82.98,medium,low,9,namecheap,,,07/08/2026 18:36
 d8be6030-b811-41a7-83d5-ae8b226236ab,carbonado.claims,available,11.98,82.98,medium,low,9,namecheap,,,24/09/2026 00:32
-03abdc95-40cd-4682-9bac-8a305656e13e,day.claims,available,19.99,,high,low,3,name.com,,,
+03abdc95-40cd-4682-9bac-8a305656e13e,day.claims,available,10.55,51.95,high,low,3,spaceship,,,28/09/2026 16:52
 4cb9d84f-6a21-4b6c-a4df-ebd82c104f2a,damascus.claims,available,19.99,,high,low,8,name.com,,,
 81425271-76dd-4028-947c-e0c61a013a4b,crumbly.claims,available,11.98,82.98,medium,low,7,namecheap,,,13/08/2026 09:02
 d0b0a05e-ea3f-42ff-887c-ec42865a7db2,laconic.claims,available,11.98,82.98,medium,low,7,namecheap,,,22/08/2026 18:14
@@ -132,6 +145,7 @@ ae6624cd-2af2-45cb-8733-32e668d1a14e,portent.claims,available,11.98,82.98,medium
 f1ded675-5701-4cb5-a1de-d98acf88df33,thankless.claims,available,11.98,82.98,medium,low,9,namecheap,,,11/09/2026 12:28
 b7b7c636-f59a-49a4-bac8-d72815333e0e,disks.claims,available,17.99,64.99,medium,low,5,namesilo,,,18/09/2026 11:49
 7fc0ded1-4523-4847-8b6b-ba769148ed86,translating.claims,available,11.98,82.98,medium,low,11,namecheap,,,17/09/2026 20:51
+0e0c2e10-fda9-482a-9296-69c0cc402bfb,melrose.claims,available,50.2,50.2,medium,low,7,cloudflare,,,28/09/2026 08:55
 2de198db-bcdd-4242-ac5f-89dcec97bca6,oak.claims,available,19.99,,high,low,3,name.com,,,
 13a4e0a3-6ed9-4c6e-9bff-5489069ec714,papaw.claims,available,17.99,64.99,medium,low,5,namesilo,,,20/09/2026 14:12
 322cbfb5-4a86-4e45-a9b1-0931518835a6,colours.claims,available,19.99,,high,low,7,name.com,,,
@@ -145,6 +159,7 @@ c0309dcf-bbe1-4e6e-90c5-85e154daea6b,governing.claims,available,11.98,82.98,high
 155081c3-285f-4e43-b09d-b732d98edded,aspartame.claims,available,17.99,64.99,medium,low,9,namesilo,,,20/09/2026 14:43
 b4992f76-5653-4aec-818f-c28d79554ac7,adultery.claims,available,11.98,82.98,medium,low,8,namecheap,,,17/09/2026 10:25
 0531f9df-b787-419a-bebd-4d1163954937,prochoice.claims,available,17.99,64.99,high,low,10,namesilo,,,27/09/2026 06:48
+000b36aa-60aa-4aa8-8138-943e52351c72,lubbock.claims,available,10.92,53.22,medium,low,7,dynadot,,,28/09/2026 10:18
 f37a56b8-2b2f-42af-a632-709dfb3f56c4,bypass.claims,available,17.99,64.99,high,low,6,namesilo,,,23/09/2026 07:09
 86e200ce-6a73-427c-881c-b9a15e237747,smelling.claims,available,17.99,64.99,high,low,8,namesilo,,,27/09/2026 22:56
 33f5a626-68c9-49ec-9a28-81cbe7999f44,crescent.claims,available,11.98,82.98,high,low,8,namecheap,,,13/08/2026 06:14
@@ -154,19 +169,22 @@ ea2f7d99-c354-4136-be2a-d3456cd3bf8f,burns.claims,available,17.99,64.99,medium,l
 521be473-7f97-481b-ad05-2246b97b5645,judith.claims,available,17.99,64.99,high,low,6,namesilo,,,28/09/2026 05:18
 dc6b5450-b34c-4dc7-b229-bb9b37a2070d,pitfall.claims,available,19.99,,medium,low,7,name.com,,,
 191c2bc9-9bd3-47a3-a9e4-9419f43f1771,hydrous.claims,available,11.98,82.98,medium,low,7,namecheap,,,21/08/2026 16:14
+88c80021-708a-4ed7-b0e8-7de189e577e1,tractor.claims,available,17,,high,low,7,unstoppable,,,28/09/2026 11:01
 f639204c-0df9-48ad-9e97-d5ab7412e618,stevenson.claims,available,17.99,64.99,high,low,9,namesilo,,,17/09/2026 08:37
 a581a28c-083f-4f68-941b-ea542f8cf383,seyhan.claims,available,17.99,64.99,medium,low,6,namesilo,,,17/09/2026 06:19
 d7202992-1553-4d70-b85a-88324e358316,pictured.claims,available,11.98,82.98,medium,low,8,namecheap,,,14/08/2026 02:14
-75bdc24b-51e9-4147-aa18-2dd0171eaf12,recently.claims,available,19.99,,high,low,8,name.com,,,
+75bdc24b-51e9-4147-aa18-2dd0171eaf12,recently.claims,available,17.99,64.99,medium,low,8,namesilo,,,28/09/2026 16:05
 32888958-df93-4593-8791-8f3f8ebda65d,obsession.claims,available,10.81,52.01,high,low,9,porkbun,,,28/09/2026 02:30
 0e0a3171-f4c5-4653-b826-3d6bb8ede58d,resole.claims,available,11.98,82.98,medium,low,6,namecheap,,,10/09/2026 13:33
+5e86c7f9-1f8b-40c1-80ec-21645de82ea3,condemned.claims,available,17,,medium,low,9,unstoppable,,,28/09/2026 17:15
 31edcb2e-95c8-487a-a3e4-778e0d679f58,kodiak.claims,available,17.99,64.99,high,low,6,namesilo,,,18/09/2026 02:05
 0e51e696-e247-49ef-89df-6a91ba7c8326,aedes.claims,available,17.99,64.99,medium,low,5,namesilo,,,17/09/2026 12:09
 7e14cfd8-c88d-4b7d-8b88-94f92eb47b13,rancor.claims,available,17.99,64.99,medium,low,6,namesilo,,,23/09/2026 23:05
 ac0c1039-f697-40df-9cfe-2bec71bdd913,playstation.claims,available,,,high,high,11,,,,
 8f43a7a6-04f5-43bd-b2d5-b3a1d9cbf726,eyewitness.claims,available,19.99,,high,low,10,name.com,,,
+7ba7af40-215c-4ff1-87e8-9150e1ad6f2c,jansen.claims,available,50.2,50.2,medium,low,6,cloudflare,,,28/09/2026 18:46
 92fb19b1-cc03-41c0-b69e-060a6de35468,wake.claims,available,17.99,64.99,high,low,4,namesilo,,,22/09/2026 14:42
-b0c45676-de63-46a7-b1da-a6a17348b4d6,land.claims,premium,520,520,high,low,4,namecheap,,,
+b0c45676-de63-46a7-b1da-a6a17348b4d6,land.claims,premium,520,520,high,low,4,namecheap,,,28/09/2026 18:00
 bfec6f3f-f525-4bae-9d82-90ae10abeb37,basilisk.claims,available,17.99,64.99,high,low,8,namesilo,,,22/09/2026 10:54
 1bec77ee-3c5f-4713-8a70-a366efc9dc1d,baboon.claims,available,11.98,82.98,high,low,6,namecheap,,,21/09/2026 12:58
 9af2ed10-3310-40f8-8124-4e678e680349,astrology.claims,available,11.98,82.98,high,low,9,namecheap,,,20/09/2026 17:48
@@ -182,12 +200,14 @@ edd4e3d9-93d9-466d-81d1-7576d6f70702,permeable.claims,available,11.98,82.98,medi
 41f368b9-7beb-4c19-a2b4-a0d1a64d7068,cerium.claims,available,11.98,82.98,medium,low,6,namecheap,,,14/09/2026 06:07
 73e0eeb3-564f-4478-ada0-27c6838272c7,laffer.claims,available,17.99,64.99,medium,low,6,namesilo,,,20/09/2026 10:59
 52fd9ec1-3345-4771-a473-582dfce658c8,hereditary.claims,available,11.98,82.98,high,low,10,namecheap,,,
+919db2cd-6def-4a37-8eb9-c804438b4376,remark.claims,available,10.55,51.95,high,low,6,spaceship,,,28/09/2026 09:26
 e385a0a5-0fb8-4891-8792-adf211d95d6c,monger.claims,available,17.99,64.99,medium,low,6,namesilo,,,22/09/2026 05:36
 bcf28522-1d78-4637-b902-9408dbbe7e39,slavonic.claims,available,11.98,82.98,high,low,8,namecheap,,,10/09/2026 10:34
 63eb75c0-cc39-4123-b517-844aad6fdc4f,counselling.claims,available,11.98,82.98,high,low,11,namecheap,,,17/09/2026 12:13
 31d61edd-9aed-4c07-8526-042404d6697f,esfahan.claims,available,17.99,64.99,medium,low,7,namesilo,,,20/09/2026 14:33
 23f5e0b8-8fc2-47f6-ace5-eb1a477dec2f,musing.claims,available,11.98,82.98,high,low,6,namecheap,,,11/08/2026 05:58
 05db25b9-eb07-4307-817f-36839d25c551,tenuous.claims,available,11.98,82.98,medium,low,7,namecheap,,,11/09/2026 11:41
+3b86bf10-82bd-4aaf-907c-ffab1f9abe39,redmond.claims,available,17.99,64.99,medium,low,7,namesilo,,,28/09/2026 11:41
 d534cc6a-6978-471b-bbfa-a01d2af8feaf,tongan.claims,available,11.98,82.98,high,low,6,namecheap,,,11/09/2026 17:06
 80fcfc8f-936e-4389-a3a8-045ed0b4ab40,riveting.claims,available,17.99,64.99,high,low,8,namesilo,,,21/09/2026 15:09
 48df2444-e5bc-4513-9007-0668819dd1b8,tragedy.claims,available,11.98,82.98,medium,low,7,namecheap,,,24/09/2026 11:39
@@ -200,6 +220,7 @@ e239f656-1b28-4e93-81fe-283388814b9b,bestiality.claims,available,17.99,64.99,med
 413306ef-260a-49e0-bce0-a80f2969e5d5,secret.claims,available,17.99,64.99,high,medium,6,namesilo,,,23/09/2026 14:41
 209c5f4e-6c6c-48df-bf3f-45e74e1d74f9,kind.claims,available,17.99,64.99,high,low,4,namesilo,,,25/09/2026 12:40
 eaafaa43-75a2-435e-9f4b-f6614edc7aa4,earthlike.claims,available,11.98,82.98,medium,low,9,namecheap,,,14/08/2026 22:40
+84435e78-a84f-4968-b5f5-c36b2fffe47e,poughkeepsie.claims,available,17.99,64.99,medium,low,12,namesilo,,,29/09/2026 04:37
 4cae4ec7-a413-4dc6-85c6-8268773b44fb,slaveless.claims,available,11.98,82.98,medium,low,9,namecheap,,,18/08/2026 14:44
 67b2a3b9-5f96-4ed6-8e0c-66c3d172b7c1,convex.claims,available,11.98,82.98,high,low,6,namecheap,,,11/08/2026 08:24
 80bae028-43d2-4697-a814-6a212cad3f80,donnish.claims,available,11.98,82.98,medium,low,7,namecheap,,,14/08/2026 15:53
@@ -220,20 +241,23 @@ d97f2676-4e47-40ab-95db-b872210b802b,finn.claims,available,17,,high,low,4,unstop
 3861eef9-d11e-4037-9223-046d822d375b,aidoneus.claims,available,19.99,86.99,medium,low,8,name.com,,,17/09/2026 20:53
 e1ca2b96-2c4b-4f06-a6ae-e5ce84be7bf7,curt.claims,available,11.98,82.98,medium,low,4,namecheap,,,11/08/2026 07:05
 4ed57b0a-0584-449d-b69d-3bbc3d9cc5bd,bile.claims,available,17.99,64.99,medium,low,4,namesilo,,,23/09/2026 15:41
+6a9c5732-23aa-4a1f-9865-a606af21a300,riches.claims,available,17,,high,low,6,unstoppable,,,28/09/2026 20:20
 bbbb6a74-35d7-4dd6-8f74-5bfa9445718b,vindicator.claims,available,11.98,82.98,high,low,10,namecheap,,,19/09/2026 18:48
 35b5012b-1168-4fa6-8bc2-a5956cadf095,bosnian.claims,available,11.98,82.98,high,low,7,namecheap,,,10/08/2026 20:21
 7094e0d8-b779-445c-bf7c-45c438d61f5c,childlike.claims,available,11.98,82.98,medium,low,9,namecheap,,,12/08/2026 05:12
 8d7bc36d-369d-420f-9903-97d6f15bab89,second.claims,available,11.98,82.98,high,low,6,namecheap,,,21/09/2026 12:59
-fb584206-646c-4a81-809f-cb61e162eaf9,vitamins.claims,available,11.98,82.98,high,low,8,namecheap,,,19/09/2026 23:20
+fb584206-646c-4a81-809f-cb61e162eaf9,vitamins.claims,available,50.2,50.2,medium,low,8,cloudflare,,,28/09/2026 08:13
 3106df55-f7ee-4b4c-86ab-de282d07a228,untaxed.claims,available,11.98,82.98,medium,low,7,namecheap,,,11/09/2026 09:28
 6c85b2a0-cc32-4819-8886-62c6e951b6ae,arrested.claims,available,11.98,82.98,medium,low,8,namecheap,,,17/09/2026 20:22
 7ba4a4df-0d7f-42bf-9b2f-1a3fee24da98,absolver.claims,available,11.98,82.98,medium,low,8,namecheap,,,16/09/2026 18:07
 d5d0ae76-addb-4a8b-95ea-d88a48af83fc,piquant.claims,available,11.98,82.98,medium,low,7,namecheap,,,17/08/2026 07:38
+fdd5cd26-28f5-446b-9131-3a294f6ecad1,margin.claims,available,17,,high,low,6,unstoppable,,,29/09/2026 01:09
 b1971035-a8e2-4747-8ef3-81fb8f6ace83,octal.claims,available,11.98,82.98,medium,low,5,namecheap,,,04/09/2026 00:39
 839362cc-722a-43fa-96a0-00e2517e3ace,maximising.claims,available,11.98,82.98,medium,low,10,namecheap,,,24/08/2026 17:58
 226b92f8-0e79-44cf-b6db-40cdafa97d54,alight.claims,available,11.98,82.98,high,low,6,namecheap,,,
 50768fd4-124a-45dc-b38f-e24c30cc549c,beecher.claims,available,17.99,64.99,medium,low,7,namesilo,,,23/09/2026 00:12
 eb58937a-2033-4371-bd88-b8fcc466b937,structures.claims,available,19.99,,medium,low,10,name.com,,,
+7e1e83c0-61f9-43b2-a638-4b6533f37ce8,plo.claims,available,50.2,50.2,medium,low,3,cloudflare,,,28/09/2026 10:40
 d363d6e9-62e5-4aa3-a180-2d7f5e5c32ee,ignatius.claims,available,10.55,51.95,medium,low,8,spaceship,,,27/09/2026 14:14
 7c423b07-9e62-4b15-a8b8-3aa5bd08e464,ashland.claims,available,17.99,64.99,high,low,7,namesilo,,,27/09/2026 08:14
 e583652b-d088-45c5-94b8-a42adfd6c97d,geared.claims,available,11.98,82.98,high,low,6,namecheap,,,18/08/2026 20:59
@@ -255,6 +279,7 @@ a8a938bc-b86b-4838-9eb3-e55ff6ed6cde,actinism.claims,available,11.98,82.98,mediu
 211e7520-4c79-4181-b12b-8d9dd72b834f,reassured.claims,available,11.98,82.98,high,low,9,namecheap,,,09/09/2026 11:12
 83b0ce91-9da1-4112-994c-d13e38ba82b0,hayes.claims,available,50.2,50.2,high,low,5,cloudflare,,,28/09/2026 05:58
 846402c8-8341-4c6f-bff8-26cfe29e8c35,demonstration.claims,available,19.99,,high,low,13,name.com,,,
+a5ace5b2-67a3-46cc-8521-bb3adef8df31,mahler.claims,available,10.55,51.95,medium,low,6,spaceship,,,29/09/2026 01:10
 925dbb7d-99fc-4ce3-ba5a-6e57b9c3463d,dominical.claims,available,11.98,82.98,medium,low,9,namecheap,,,14/08/2026 15:42
 7d4b1785-e253-45b3-b536-4839b77b86f3,unfenced.claims,available,11.98,82.98,medium,low,8,namecheap,,,12/09/2026 10:10
 2fb3d81f-c836-44dd-8263-07bf0dd479f0,microbial.claims,available,11.98,82.98,medium,low,9,namecheap,,,08/09/2026 09:41
@@ -262,6 +287,7 @@ a8a938bc-b86b-4838-9eb3-e55ff6ed6cde,actinism.claims,available,11.98,82.98,mediu
 b4b3527b-8495-4985-a78d-d73fa8e039e9,unreal.claims,available,17.99,64.99,high,low,6,namesilo,,,22/09/2026 09:00
 e126dbad-5fba-433a-8396-ba48b9d8aea8,ignite.claims,available,19.99,,high,low,6,name.com,,,
 3d6fe60e-5203-4b8c-b8f7-63f9c5900cfa,anodal.claims,available,11.98,82.98,medium,low,6,namecheap,,,
+d7113830-4cff-4eda-b813-4b080eaf938a,cosmetics.claims,available,17,,high,low,9,unstoppable,,,29/09/2026 04:53
 a9ec049c-1d45-4479-91bc-45b774da4f8c,anna.claims,available,17.99,64.99,high,medium,4,namesilo,,,19/09/2026 09:54
 adb73e37-bd62-4e19-9177-8bff34b15c1b,jaunty.claims,available,11.98,82.98,medium,low,6,namecheap,,,12/08/2026 06:01
 f8ef0c4e-08c2-467e-8de7-fc0b9a59a4fa,eudaemonic.claims,available,11.98,82.98,medium,low,10,namecheap,,,17/08/2026 14:10
@@ -284,11 +310,13 @@ a9ce73bd-ba47-49cf-ba08-29f7d21d32a3,nuke.claims,available,17.99,64.99,high,low,
 d4772d47-c125-44f9-9ae8-5197f85df80e,depress.claims,available,19.99,,high,low,7,name.com,,,
 d84e4e7e-1352-493b-97fb-7c0397535efa,barcarolle.claims,available,11.98,82.98,medium,low,10,namecheap,,,22/09/2026 05:06
 189edc6c-2dfe-40e1-9836-73e7294833cc,unary.claims,available,11.98,82.98,medium,low,5,namecheap,,,12/09/2026 01:06
+19668713-32de-476f-be60-2b840cc3f5de,yao.claims,available,17.99,64.99,medium,low,3,namesilo,,,28/09/2026 07:58
 a3d1625e-1d44-41cc-85e1-f44bdd4de732,annelida.claims,available,17.99,64.99,medium,low,8,namesilo,,,19/09/2026 10:23
 fa5fa904-c57a-4351-9c72-f5baaaa6632d,hades.claims,available,11.98,82.98,high,low,5,namecheap,,,17/09/2026 20:48
 e78aeb62-2be2-489c-ac9c-43c2a9de1b2e,lustfully.claims,available,11.98,82.98,medium,low,9,namecheap,,,15/09/2026 13:12
 4e4ed195-03dd-4e2c-8a97-207044cfb49d,archimedes.claims,available,17.99,64.99,medium,low,10,namesilo,,,20/09/2026 02:08
 941be9d3-fc39-4ce3-879c-4d3895faded8,xxxi.claims,available,11.98,82.98,medium,low,4,namecheap,,,
+3ffc0878-3348-43ee-be7c-8bbe45bef5e7,ams.claims,available,17.99,64.99,high,low,3,namesilo,,,28/09/2026 21:48
 1a079441-d61f-448e-a781-c40c0a6cafcd,stern.claims,available,17.99,64.99,high,low,5,namesilo,,,22/09/2026 13:25
 b36565ea-dff5-4b20-8947-5ffe861a04c3,feminist.claims,available,11.98,82.98,high,low,8,namecheap,,,18/08/2026 01:02
 9ea597b2-911a-48ec-ab41-88edf1d5848a,bedford.claims,available,17.99,64.99,high,low,7,namesilo,,,25/09/2026 14:52
@@ -299,14 +327,18 @@ b5dfccba-612b-4d4c-a07d-d3c4cab268cb,mickey.claims,available,17.99,64.99,high,lo
 f1c3d63c-1c62-4673-b951-1767f060e4fe,shaggy.claims,available,11.98,82.98,medium,low,6,namecheap,,,11/08/2026 11:17
 2e19e1e8-ceb6-4191-a9fd-263750939446,screeching.claims,available,11.98,82.98,medium,low,10,namecheap,,,09/09/2026 23:59
 ee00bbbd-5901-495e-a931-40e85fd3c644,juicy.claims,available,11.98,82.98,high,low,5,namecheap,,,18/08/2026 19:59
+03693f0e-d850-41e2-b8df-18f039507c8b,buys.claims,available,17.99,64.99,medium,low,4,namesilo,,,28/09/2026 09:07
+af632030-e954-4c40-8e0b-41ed99f78111,mojave.claims,available,10.55,51.95,high,low,6,spaceship,,,28/09/2026 19:54
 831c7f65-9b3a-4d21-a2ea-9da0cdac163c,carried.claims,available,17.99,64.99,medium,low,7,namesilo,,,25/09/2026 17:00
 4f51726c-2bf5-4070-9e54-07efc92e7800,dermal.claims,available,19.99,86.99,high,low,6,name.com,,,13/08/2026 13:00
 1dce1eb0-ac20-469e-966d-7ead0dc4355a,ballet.claims,available,17.99,64.99,high,low,6,namesilo,,,21/09/2026 22:51
 cf698d87-77d9-44fe-bbfa-138b7f2a3259,cleanly.claims,available,11.98,82.98,high,low,7,namecheap,,,12/08/2026 10:21
-5a89ecc3-df68-42d1-b33e-2917e54d5d2e,pope.claims,available,19.99,,high,low,4,name.com,,,
+5a89ecc3-df68-42d1-b33e-2917e54d5d2e,pope.claims,available,10.81,52.01,high,low,4,porkbun,,,28/09/2026 20:19
 321ca98d-5a22-472f-a961-39504e1016cd,humongous.claims,available,11.98,82.98,medium,low,9,namecheap,,,08/08/2026 12:58
-d613df29-545b-4ce2-99e7-ff16a0a4b8b7,opera.claims,available,11.98,82.98,high,low,5,namecheap,,,25/09/2026 02:37
+d613df29-545b-4ce2-99e7-ff16a0a4b8b7,opera.claims,available,17.99,64.99,high,low,5,namesilo,,,28/09/2026 10:47
 6fe49dc6-0864-4213-abc7-81c2b4a94dd3,loafer.claims,available,11.98,82.98,medium,low,6,namecheap,,,14/08/2026 14:12
+398581e1-01c8-4e3d-b3f5-f79d5663d703,popularity.claims,available,17,,high,low,10,unstoppable,,,28/09/2026 10:44
+dc91a6db-b59a-40e0-acd6-5adefd92980d,allowing.claims,available,17.99,64.99,medium,low,8,namesilo,,,28/09/2026 08:42
 0ace2780-b1dd-4f5b-a7c6-e296933be89a,strep.claims,available,11.98,82.98,medium,low,5,namecheap,,,10/09/2026 22:28
 1bc4b9c1-5a20-4623-b7b4-ce150f89bc15,cheap.claims,available,17.99,64.99,high,low,5,namesilo,,,23/09/2026 11:03
 b6708341-daaa-48b8-a51a-466179770b2d,orlando.claims,available,17.99,64.99,high,low,7,namesilo,,,25/09/2026 09:39
@@ -318,11 +350,12 @@ a9743698-7638-49ad-880a-c1ed9f257923,polychrome.claims,available,11.98,82.98,hig
 6b2910e9-a8d5-4c49-8de0-dd1f35002ff7,tireless.claims,available,11.98,82.98,high,low,8,namecheap,,,21/08/2026 00:49
 f5922f39-0825-4a28-b150-c2845d34a449,malcolm.claims,available,17.99,64.99,high,low,7,namesilo,,,25/09/2026 14:54
 d302417b-3a9c-47ef-aed0-31285d5b33ad,conceited.claims,available,11.98,82.98,medium,low,9,namecheap,,,12/08/2026 19:54
+caf21a8d-b26d-49cc-a2ed-d96c6fa01633,captains.claims,available,17,,medium,low,8,unstoppable,,,28/09/2026 23:33
 561fe095-d231-498c-bf9b-afdf2755a662,crinkly.claims,available,11.98,82.98,medium,low,7,namecheap,,,13/08/2026 06:51
 c09f90a3-30ef-4136-bce9-fc745b0e6c4f,transfixed.claims,available,11.98,82.98,medium,low,10,namecheap,,,17/08/2026 22:56
 b368fd9c-2d8b-40cb-a2bc-3080053c384d,looted.claims,available,11.98,82.98,medium,low,6,namecheap,,,24/08/2026 09:45
 9fa730ed-b11e-4f92-acab-176f27be58ef,rustic.claims,available,11.98,82.98,high,low,6,namecheap,,,
-519ca936-3d1b-4767-b1a2-14216c690a1a,shoot.claims,available,11.98,82.98,high,low,5,namecheap,,,25/09/2026 04:18
+519ca936-3d1b-4767-b1a2-14216c690a1a,shoot.claims,available,17,82.98,high,low,5,unstoppable,,,28/09/2026 12:19
 5101523f-e10a-4e08-be60-69861a9555c4,breezy.claims,available,17.99,64.99,high,low,6,namesilo,,,22/09/2026 22:40
 8daaac5e-4130-40f7-99a6-9807595cc25a,immature.claims,available,11.98,82.98,medium,low,8,namecheap,,,21/08/2026 20:52
 df455448-9209-412a-a539-5b9f7fc3b558,razed.claims,available,11.98,82.98,medium,low,5,namecheap,,,14/08/2026 01:24
@@ -340,6 +373,7 @@ f1b0a23d-b43f-4a51-a012-1f13282c311f,dryden.claims,available,11.98,82.98,medium,
 4921aff8-1895-4713-b942-cdd50d7238b4,attestant.claims,available,17.99,64.99,high,low,9,namesilo,,,21/09/2026 01:36
 f9a68358-ad63-4c62-8dac-6d4d465c78e5,motorized.claims,available,11.98,82.98,high,low,9,namecheap,,,24/08/2026 18:45
 5cfbacc9-4a55-4b8a-971d-81deba84cf3e,volt.claims,available,11.98,82.98,high,low,4,namecheap,,,13/09/2026 00:34
+39df29ef-4ac4-4a34-8826-c4a73e771eac,rockets.claims,available,17.99,64.99,medium,low,7,namesilo,,,28/09/2026 13:30
 e81e78eb-82ac-4565-af4d-db5aefd9ee80,myotonic.claims,available,11.98,82.98,medium,low,8,namecheap,,,03/09/2026 12:15
 ff4f4e00-eb7a-4db2-9d02-4372db41c210,fatah.claims,available,11.98,82.98,medium,low,5,namecheap,,,18/09/2026 00:27
 7dca92fc-84b3-4695-9b7a-4a9e07b038f6,poverty.claims,available,19.99,,medium,low,7,name.com,,,
@@ -360,7 +394,6 @@ c8d8f488-34f0-4089-8c33-08d29b263a51,aliyah.claims,available,11.98,82.98,high,lo
 b6515419-36d3-4b81-9039-87700075af49,hebraic.claims,available,11.98,82.98,medium,low,7,namecheap,,,21/08/2026 05:40
 e97f7aa9-8653-4d3c-a343-7d0771bc357e,gospel.claims,available,11.98,82.98,high,low,6,namecheap,,,24/09/2026 14:58
 d5b063dd-72f0-48de-9973-df4c3a8c0297,min.claims,available,11.98,82.98,high,low,3,namecheap,,,25/08/2026 00:58
-48499efc-b663-4ef5-959f-9e810e280bf6,manifest.claims,available,,,high,medium,8,,,,
 6e41e1db-7ebe-4a22-bc5a-c016b29f8f58,formative.claims,available,11.98,82.98,high,low,9,namecheap,,,18/08/2026 12:07
 eb0201f0-323c-4938-bae7-c3d54f0835be,allograft.claims,available,17.99,64.99,medium,low,9,namesilo,,,18/09/2026 11:54
 19937621-f807-4c18-bf93-c0f746b185db,talk.claims,available,19.99,,high,low,4,name.com,,,
@@ -381,6 +414,8 @@ a9f21168-5f3c-4926-90ba-ac93ae84920a,homesick.claims,available,11.98,82.98,mediu
 ded08ce2-66a0-4f05-87df-3cac4be4b0d5,angioma.claims,available,17.99,64.99,medium,low,7,namesilo,,,19/09/2026 06:14
 22abf59c-83b7-4423-9542-06a0f81d057e,markets.claims,available,17.99,64.99,high,low,7,namesilo,,,28/09/2026 04:32
 dbf20f06-1ee4-41bf-bb3a-52e0eb857172,decay.claims,available,19.99,,high,low,5,name.com,,,
+5de7ef8b-57a9-4f33-9634-64cbc8eaed3f,cbd.claims,available,50.2,50.2,high,low,3,cloudflare,,,28/09/2026 08:39
+f6d481ce-4770-49d0-bfc9-de69a2e805a9,owners.claims,available,10.55,51.95,medium,low,6,spaceship,,,28/09/2026 08:43
 3433ca02-a407-4726-a5c9-6ecf3d356803,keating.claims,available,11.98,82.98,high,low,7,namecheap,,,27/09/2026 08:01
 804f8304-c1f1-40d2-9d2d-aa6f7855b0e2,lovingly.claims,available,11.98,82.98,high,low,8,namecheap,,,14/09/2026 19:14
 08bc95ad-04f8-41fc-b4aa-c3d15caf86df,badinage.claims,available,17.99,64.99,medium,low,8,namesilo,,,21/09/2026 17:13
@@ -410,12 +445,13 @@ c5e7f984-c486-44df-a2a8-46c52eda8cb6,veal.claims,available,19.99,,medium,low,4,n
 1b4ed2d0-7155-4d17-8980-166ca3fb4ccf,casualties.claims,available,10.55,51.95,high,low,10,spaceship,,,27/09/2026 21:53
 6599df89-1fce-4e24-afec-efda855b9c6e,hospitals.claims,available,17.99,64.99,medium,low,9,namesilo,,,20/09/2026 04:37
 3cb68b3f-8868-4e67-aa2f-a6c9f46c66a2,cocker.claims,available,11.98,82.98,medium,low,6,namecheap,,,21/09/2026 13:01
-53feb20b-185c-4ecc-9aee-28e581b74536,knows.claims,available,17.99,64.99,medium,low,5,namesilo,,,25/09/2026 02:31
+53feb20b-185c-4ecc-9aee-28e581b74536,knows.claims,available,10.55,51.95,medium,low,5,spaceship,,,28/09/2026 10:33
 83db8ed4-6e70-4e34-b273-2be4ef8614ca,pushchair.claims,available,17.99,64.99,high,low,9,namesilo,,,21/09/2026 13:21
 4377c886-7ea0-4cbe-a792-aaf2da891cba,schedule.claims,available,50.2,50.2,high,low,8,cloudflare,,,28/09/2026 04:02
 b1498f67-acce-4e64-856a-81af9bb35fe3,epstein.claims,available,17.99,64.99,high,low,7,namesilo,,,27/09/2026 03:50
 d0c70178-68d8-4e82-b0dc-dbae13489860,sublunary.claims,available,11.98,82.98,medium,low,9,namecheap,,,12/08/2026 08:28
 939b10f9-2f39-466d-801e-763eea2cc56c,tasting.claims,available,19.99,,high,low,7,name.com,,,
+c9cb3e09-1ec4-4f26-b7dd-50df2d62653f,gps.claims,available,17.99,64.99,high,medium,3,namesilo,,,29/09/2026 01:05
 9c85a931-00b9-42b6-9e76-63feaa459520,computers.claims,available,17.99,64.99,high,low,9,namesilo,,,28/09/2026 05:21
 ad13b49f-efad-4da9-8174-2d47c1f87a5c,logistic.claims,available,11.98,82.98,high,low,8,namecheap,,,24/08/2026 08:52
 cb907904-093e-4806-9f3c-785a9f7db0b1,antioxidant.claims,available,19.99,,high,low,11,name.com,,,
@@ -439,7 +475,8 @@ a5081b0e-6f13-47bb-b1c2-be85d7798137,barrel.claims,available,17.99,64.99,high,lo
 24e8683f-4550-49e3-ac78-efc4f310ec39,biotic.claims,available,11.98,82.98,high,low,6,namecheap,,,10/08/2026 03:14
 395b00e2-0c0e-49b1-acce-ce2fc2caa5bc,bakshis.claims,available,11.98,82.98,high,low,7,namecheap,,,21/09/2026 15:54
 ad79ebfa-079c-47cd-a09e-14dcfe4ddb4e,native.claims,available,11.98,82.98,high,low,6,namecheap,,,03/09/2026 13:45
-a57f524b-690f-424c-8900-e0e8dc8dbc4f,pin.claims,available,19.99,,high,low,3,name.com,,,
+431615c0-21f8-469d-a6d4-9502aaa3a131,hutchins.claims,available,10.55,51.95,medium,low,8,spaceship,,,28/09/2026 19:28
+a57f524b-690f-424c-8900-e0e8dc8dbc4f,pin.claims,available,50.2,50.2,high,low,3,cloudflare,,,29/09/2026 03:45
 2feda8f3-af61-47f7-a4b9-9c031bcdaf69,winterhaven.claims,available,19.99,,medium,low,12,name.com,,,
 f4e3c4c2-946d-4f45-a745-149041d5f555,collateral.claims,available,11.98,82.98,high,low,10,namecheap,,,12/08/2026 16:42
 69d078c6-49e3-4295-bab7-13e9e9416d9e,defamer.claims,available,17.99,64.99,medium,low,7,namesilo,,,21/09/2026 15:02
@@ -449,6 +486,7 @@ fe61ad27-5ad1-4cf5-9326-b53c80acc586,vitally.claims,available,17.99,64.99,medium
 deec12a8-58d4-4506-93e5-84c7c6e3608b,influence.claims,available,11.98,82.98,high,low,9,namecheap,,,08/09/2026 08:44
 88cdcd46-facb-48ce-a537-447f6ef23a11,reprint.claims,available,11.98,82.98,high,low,7,namecheap,,,10/09/2026 04:03
 4d880e48-870b-48ac-882b-caebf0e09363,rhapsodic.claims,available,11.98,82.98,medium,low,9,namecheap,,,14/08/2026 23:52
+05f643e0-5a94-48fb-97cb-e07622329b4a,casualty.claims,available,10.81,52.01,medium,low,8,porkbun,,,28/09/2026 18:35
 f2e12353-2762-4695-98bb-f3f2c7d505b0,shirley.claims,available,17.99,64.99,high,low,7,namesilo,,,25/09/2026 13:56
 c05688d5-9311-445e-b8a9-9488ccb18ee3,yards.claims,available,17.99,64.99,high,low,5,namesilo,,,25/09/2026 05:56
 e855def5-208b-4b43-a981-85fd321c1013,addend.claims,available,17.99,64.99,medium,low,6,namesilo,,,17/09/2026 06:41
@@ -457,11 +495,13 @@ e855def5-208b-4b43-a981-85fd321c1013,addend.claims,available,17.99,64.99,medium,
 b572300b-2037-4b47-85cd-bf6e864740f2,descriptions.claims,available,17.99,64.99,medium,low,12,namesilo,,,21/09/2026 07:06
 5b1cb3bb-1ba1-49c7-81da-11125778ae6f,harquebus.claims,available,17.99,64.99,medium,low,9,namesilo,,,20/09/2026 08:40
 27ec3d14-e8cd-4287-96c3-149b49d122a7,introspections.claims,available,19.99,,low,low,14,name.com,,,
+31c9a5ab-4251-4a1f-98e0-cd8658914639,monument.claims,available,50.2,50.2,high,low,8,cloudflare,,,28/09/2026 14:54
 3792892a-22a3-4ad6-975a-381c1f935bd7,cracking.claims,available,10.81,52.01,high,low,8,porkbun,,,28/09/2026 05:52
 096feef4-52dd-428c-8c53-db0d9946346d,songful.claims,available,11.98,82.98,medium,low,7,namecheap,,,11/08/2026 17:36
 5e2c0ca7-5d33-4010-91e1-f1b2057cdcd4,blastoff.claims,available,17.99,64.99,high,low,8,namesilo,,,24/09/2026 04:43
-aebcd219-a5d6-4855-9c38-98fb239c1b6d,thing.claims,available,19.99,,high,low,5,name.com,,,
+aebcd219-a5d6-4855-9c38-98fb239c1b6d,thing.claims,available,10.92,53.22,high,low,5,dynadot,,,28/09/2026 19:13
 3b139583-341d-4dec-8e62-ce74e7a32c72,babyhood.claims,available,17.99,64.99,high,low,8,namesilo,,,21/09/2026 13:48
+bbedc213-19a3-4131-84d2-cb3eeffd4bfa,funding.claims,available,17,,high,low,7,unstoppable,,,28/09/2026 14:11
 36e76ecc-e454-4fb7-8340-9e5dc756a3f2,intense.claims,available,17.99,64.99,high,low,7,namesilo,,,25/09/2026 09:55
 e8426fad-252f-4012-99ac-017e6510d819,luke.claims,available,17.99,64.99,high,low,4,namesilo,,,25/09/2026 06:37
 5212979b-f32e-4078-8e0f-ac218cf80255,singer.claims,available,17.99,64.99,high,low,6,namesilo,,,25/09/2026 23:13
@@ -472,9 +512,10 @@ ca1b6203-5579-45b1-847f-429b491effd0,neodymium.claims,available,17.99,64.99,medi
 2be50297-cdb1-46f0-9390-13eafcefebdb,fault.claims,available,11.98,82.98,high,low,5,namecheap,,,10/08/2026 12:51
 b27bf06b-f151-4236-83e4-7fbc304ec076,adsorption.claims,available,17.99,64.99,medium,low,10,namesilo,,,17/09/2026 10:05
 825fece9-5421-4763-949e-b0e830995c22,amigo.claims,available,11.98,82.98,high,low,5,namecheap,,,18/09/2026 21:37
+2544dc47-afa6-4552-b467-2c6920a336f8,serpent.claims,available,10.55,51.95,medium,low,7,spaceship,,,29/09/2026 01:45
 04906e79-1468-4813-a5a0-23d6e1efeff1,envelope.claims,available,17.99,64.99,high,low,8,namesilo,,,25/09/2026 22:36
 4b81bbf3-b3ca-442a-bef7-88ad7487c0e8,onymous.claims,available,11.98,82.98,medium,low,7,namecheap,,,04/09/2026 15:26
-80617d2d-f227-4903-b167-7f519c659a70,bash.claims,available,19.99,,high,low,4,name.com,,,
+80617d2d-f227-4903-b167-7f519c659a70,bash.claims,available,10.55,51.95,high,low,4,spaceship,,,28/09/2026 13:20
 cc0be450-35a0-43e0-a037-18ad3f21e617,sources.claims,available,17.99,64.99,medium,low,7,namesilo,,,17/09/2026 22:23
 cfd5e790-7bcb-458d-9319-8e3fcb12337c,touchdowns.claims,available,11.98,82.98,medium,low,10,namecheap,,,19/09/2026 23:06
 573b7484-de74-4827-8468-e28a006f1bc0,pestering.claims,available,,,medium,low,9,,,,
@@ -487,6 +528,7 @@ ca7e44e4-ed9d-49ba-8ee7-95cf07a373d8,magazine.claims,available,17.99,64.99,high,
 3848cf17-72d5-4f15-8127-c4f79a4fa387,auburn.claims,available,17.99,64.99,high,low,6,namesilo,,,22/09/2026 12:02
 62b5dc10-f62e-4ffe-90e6-4d7737b00083,slavish.claims,available,11.98,82.98,medium,low,7,namecheap,,,10/09/2026 10:38
 69a267b6-c860-4119-b08f-a8a6224cd1aa,trilingual.claims,available,11.98,82.98,high,low,10,namecheap,,,11/09/2026 19:48
+d4ca7566-6f2b-48f4-856c-1122aabeb7e6,verne.claims,available,10.55,51.95,medium,low,5,spaceship,,,29/09/2026 01:27
 7ebbb004-5e95-404b-9913-29c9dd58363e,blocking.claims,available,17.99,64.99,high,low,8,namesilo,,,28/09/2026 00:53
 d64acae4-da25-445c-a6f4-9fc0a23c832d,ratty.claims,available,11.98,82.98,medium,low,5,namecheap,,,25/08/2026 06:53
 54de8ca1-353f-46f1-b1cc-c837d88e953a,jung.claims,available,17.99,64.99,high,low,4,namesilo,,,25/09/2026 03:59
@@ -498,6 +540,7 @@ fb1d5051-5a8b-4084-858c-a2461723d89e,expedience.claims,available,11.98,82.98,med
 e6bb7cb3-227d-461a-98a6-58cc18372f77,beekeeper.claims,available,17.99,64.99,high,low,9,namesilo,,,19/09/2026 17:19
 49a9f669-0853-441e-9e8f-19ea2837fd62,combined.claims,available,11.98,82.98,high,low,8,namecheap,,,12/08/2026 18:36
 6614a0e7-4e9a-47e0-93ef-1a8bcd202656,scant.claims,available,11.98,82.98,medium,low,5,namecheap,,,09/09/2026 22:36
+22f5fc15-9441-4630-97ba-8acb3185311f,occurs.claims,available,17,,medium,low,6,unstoppable,,,28/09/2026 17:56
 0c7c1501-efe1-4605-ba92-7411c201c8e3,laugher.claims,available,11.98,82.98,high,low,7,namecheap,,,09/09/2026 19:28
 97ef2a04-0507-4e26-89ba-4d1af0ce9c30,lawrencium.claims,available,17.99,64.99,medium,low,10,namesilo,,,20/09/2026 22:00
 50406bb5-7674-413c-bcf6-5bfb02da4032,prosily.claims,available,11.98,82.98,low,low,7,namecheap,,,15/09/2026 21:46
@@ -505,16 +548,20 @@ e6bb7cb3-227d-461a-98a6-58cc18372f77,beekeeper.claims,available,17.99,64.99,high
 096575e2-f8b1-4eee-9fe1-1250f6a00403,blurry.claims,available,17.99,64.99,medium,low,6,namesilo,,,22/09/2026 23:23
 8aa6c48e-0e80-4852-8659-351ad8e9746b,terrene.claims,available,11.98,82.98,medium,low,7,namecheap,,,11/09/2026 10:41
 e10ecf86-e13a-4a2e-a1fe-0cd660983718,chomsky.claims,available,11.98,82.98,medium,low,7,namecheap,,,16/09/2026 12:59
+55c10827-4232-4359-b274-eadf161ef031,dougherty.claims,available,10.55,51.95,medium,low,9,spaceship,,,28/09/2026 23:48
 41df8924-7b1c-4e79-aa92-906fb1e7513c,treat.claims,available,17.99,64.99,high,low,5,namesilo,,,24/09/2026 04:23
 0fc5e740-b074-49ed-8d01-bb2c2dba4956,squarish.claims,available,11.98,82.98,medium,low,8,namecheap,,,10/09/2026 17:29
 66f3c875-ecee-47bc-98cd-81202f1bcfa4,cashew.claims,available,17.99,64.99,high,low,6,namesilo,,,19/09/2026 01:00
-071d7fa3-d7ab-4361-9531-38dfa5cf4d56,variable.claims,available,19.99,,high,low,8,name.com,,,
+071d7fa3-d7ab-4361-9531-38dfa5cf4d56,variable.claims,available,17.99,64.99,high,low,8,namesilo,,,28/09/2026 10:08
 2a9abc82-64b8-4686-b1a1-ed2c88b772b2,epidermal.claims,available,19.99,86.99,medium,low,9,name.com,,,13/08/2026 13:06
+91b2d81f-1919-434b-a33a-ff75f12db5d7,printer.claims,available,10.55,51.95,high,low,7,spaceship,,,28/09/2026 15:08
 5748d4e5-d0d9-4995-a91b-17448c4642aa,vietnamese.claims,available,11.98,82.98,high,low,10,namecheap,,,13/09/2026 05:32
+d2a83ec3-bd87-40f3-8c6b-ece7de9c3c98,correction.claims,available,17.99,64.99,medium,low,10,namesilo,,,28/09/2026 09:23
 f6a0c208-3fdd-44eb-8110-f2d46b46bcae,cry.claims,available,19.99,,high,low,3,name.com,,,
 7d18277d-fc39-4341-8192-fd50c9762fd0,amaethon.claims,available,11.98,82.98,low,low,8,namecheap,,,18/09/2026 15:34
 a0f9da2c-0c88-42df-955e-2260ab66e6de,bordello.claims,available,11.98,82.98,medium,low,8,namecheap,,,21/09/2026 18:17
 bb0258e6-0ddc-49c8-b2ab-ebe7dbd49321,manuals.claims,available,17.99,64.99,medium,low,7,namesilo,,,20/09/2026 09:33
+93d8146c-a6ef-45c8-b1e6-7fb326f6ca95,housewife.claims,available,10.55,51.95,medium,low,9,spaceship,,,29/09/2026 01:18
 b29bb97e-320c-4b9d-8945-35134f1a84c5,westward.claims,available,11.98,82.98,medium,low,8,namecheap,,,13/09/2026 10:55
 a0f03e9a-3ee2-442d-bee7-0b9dc803036b,canty.claims,available,11.98,82.98,medium,low,5,namecheap,,,11/08/2026 17:46
 cda5c679-0d0f-41ef-96d4-660f3305859d,scapegrace.claims,available,17.99,64.99,medium,low,10,namesilo,,,24/09/2026 01:41
@@ -523,7 +570,9 @@ b8f50f4a-96e4-4747-b954-5be3700a8774,revolt.claims,available,19.99,,high,low,6,n
 17044850-6a81-435f-b38b-32a7c405a731,unfamiliar.claims,available,11.98,82.98,high,low,10,namecheap,,,12/09/2026 09:55
 e1367bcb-2317-4182-8133-77fa7b6240d5,battledore.claims,available,11.98,82.98,medium,low,10,namecheap,,,21/09/2026 17:16
 92b3b367-aadd-481d-a787-1bfaea26abe1,rabbits.claims,available,17.99,64.99,medium,low,7,namesilo,,,28/09/2026 05:05
+68e8f5dd-b129-4c52-9ea8-bf7148a7f10c,distinctive.claims,available,10.81,52.01,high,low,11,porkbun,,,28/09/2026 20:58
 42741b10-de37-46db-93ee-adb4a656e73e,tourist.claims,available,19.99,,high,low,7,name.com,,,
+195c7e0a-ee83-4322-9137-cdfcad864325,pga.claims,available,11.98,82.98,high,low,3,namecheap,,,28/09/2026 07:12
 1896ddf7-c29b-4fd6-a426-875342b8a861,realistic.claims,available,11.98,82.98,high,low,9,namecheap,,,03/09/2026 13:57
 cc20308d-7ad9-4bec-91b1-be0c36581316,amish.claims,available,17.99,64.99,high,low,5,namesilo,,,18/09/2026 21:52
 97f5fe9a-10ae-46cb-9069-93e462b01c78,clothed.claims,available,11.98,82.98,high,low,7,namecheap,,,12/08/2026 09:12
@@ -532,15 +581,17 @@ df8254ab-53fe-4180-bf23-b81697b4efeb,thatcher.claims,available,17.99,64.99,mediu
 6a1ae677-d480-4225-afa4-9753749ced86,gerard.claims,available,17.99,64.99,medium,low,6,namesilo,,,25/09/2026 13:17
 d04ab04f-a886-4c91-a8e8-924cd5c40271,lawful.claims,available,11.98,82.98,high,low,6,namecheap,,,22/08/2026 21:21
 952e566c-0214-44cb-b6bb-6647d210a47a,nursed.claims,available,11.98,82.98,medium,low,6,namecheap,,,03/09/2026 23:03
+8a7e244a-250c-497a-abd3-3c00619c1e34,eden.claims,available,10.92,53.22,high,medium,4,dynadot,,,28/09/2026 13:57
 b78cb16f-5ad7-42ec-9bf6-082fbf2a7ddd,debased.claims,available,11.98,82.98,medium,low,7,namecheap,,,
 b388ed35-f602-4921-a8a4-bac9c7aeacc5,carson.claims,available,10.92,53.22,high,low,6,dynadot,,,28/09/2026 01:36
+154309dd-222d-4242-950f-70dd1224708c,superficial.claims,available,10.55,51.95,medium,low,11,spaceship,,,28/09/2026 20:58
 cb5f6053-232c-4528-9c18-306cbe4fb6e6,rescued.claims,available,11.98,82.98,high,low,7,namecheap,,,09/09/2026 11:35
 126bc15b-9cf6-4f5a-888a-22e9e01f6591,ballup.claims,available,17.99,64.99,medium,low,6,namesilo,,,21/09/2026 23:27
 ba0efa48-ae1a-43af-ac64-3282e161647f,figure.claims,available,17.99,64.99,high,low,6,namesilo,,,24/09/2026 16:50
 9f2153a7-453b-4995-96ab-9facdfc15025,cantabile.claims,available,11.98,82.98,medium,low,9,namecheap,,,11/08/2026 17:38
 b1882455-3467-4c14-ae92-43fb67ead2b6,banjo.claims,available,17.99,64.99,high,low,5,namesilo,,,22/09/2026 02:11
 f2352f30-eb8f-4665-9e4f-c0659c77c6ae,pellucid.claims,available,11.98,82.98,high,low,8,namecheap,,,13/08/2026 09:44
-59b9546a-ce8d-4e9b-90d1-00a01d2b87cf,drinking.claims,available,19.99,,high,low,8,name.com,,,
+59b9546a-ce8d-4e9b-90d1-00a01d2b87cf,drinking.claims,available,10.55,51.95,high,low,8,spaceship,,,29/09/2026 03:42
 b6f2e0c3-589e-4771-a02e-285087cdd16a,uninviting.claims,available,11.98,82.98,medium,low,10,namecheap,,,12/09/2026 13:39
 35052701-9148-467e-b0da-77be4e6e58aa,witching.claims,available,11.98,82.98,high,low,8,namecheap,,,13/09/2026 12:46
 49e22fc8-5e97-4f91-8622-8f5845f92914,nullify.claims,available,11.98,82.98,high,low,7,namecheap,,,13/09/2026 06:46
@@ -551,6 +602,7 @@ ff1faea2-2e7b-4fba-b1dd-cb2ada35ea39,ventral.claims,available,11.98,82.98,high,l
 d4928072-4880-4100-825b-5f1122bed29f,mentor.claims,available,19.99,,high,low,6,name.com,,,
 c20ca516-6491-44f7-be06-aa136d563fb1,consumption.claims,available,19.99,,high,low,11,name.com,,,
 b8a631dc-9105-47fc-8046-b094a2b1fa97,planetarium.claims,available,19.99,,high,low,11,name.com,,,
+9aee5235-2d8e-49f7-932f-fdfae5164ef8,felony.claims,available,17,,medium,low,6,unstoppable,,,28/09/2026 09:45
 afdf8a9e-2a36-4ddb-a357-d015f1165ee9,battle.claims,available,11.98,82.98,high,low,6,namecheap,,,22/09/2026 14:39
 c9bb1ba6-0016-4d90-af97-ce2018cce4ca,visioned.claims,available,17.99,64.99,high,low,8,namesilo,,,20/09/2026 16:28
 c8e601c7-4628-4b66-bf98-47add0c401c7,adenoid.claims,available,11.98,82.98,medium,low,7,namecheap,,,
@@ -566,8 +618,9 @@ ad7b7bff-2a28-427f-a422-9f80c20631e0,cock.claims,available,10.92,53.22,high,low,
 f7feb195-1e65-44b1-bd4f-bbc22db296e9,tantrik.claims,available,11.98,82.98,medium,low,7,namecheap,,,11/09/2026 08:07
 3cc0cc74-4b2b-4644-a98f-2e8218f60139,ages.claims,available,19.99,,medium,low,4,name.com,,,
 1418651e-a23a-4772-b23c-6c1787bfe07f,exocentric.claims,available,11.98,82.98,medium,low,10,namecheap,,,17/08/2026 17:21
+fbc2a755-fa55-4e89-b2c3-c7ba3e8d536c,orchard.claims,available,17.99,64.99,high,low,7,namesilo,,,29/09/2026 01:46
 d8339a81-f34d-4476-97d8-5c0f68754a98,nitric.claims,available,11.98,82.98,medium,low,6,namecheap,,,08/08/2026 02:58
-690fbb72-a0e6-41dd-9045-400e3677ddf4,bravery.claims,available,19.99,,high,low,7,name.com,,,
+690fbb72-a0e6-41dd-9045-400e3677ddf4,bravery.claims,available,10.55,51.95,high,low,7,spaceship,,,29/09/2026 04:02
 3a55070c-1eb1-4ed4-8975-8b1419d0e769,sideways.claims,available,17.99,64.99,high,low,8,namesilo,,,24/09/2026 01:14
 16972821-6296-49eb-986f-f59e0407184b,amazingly.claims,available,11.98,82.98,high,low,9,namecheap,,,13/09/2026 19:27
 221fd3d3-880b-4000-a606-9b19208966fb,rakes.claims,available,17.99,64.99,medium,low,5,namesilo,,,20/09/2026 22:29
@@ -578,6 +631,7 @@ f04266b5-ca7b-46d7-aca1-cd1d1589d575,pointing.claims,available,11.98,82.98,high,
 c7b56647-7704-4d99-9294-4f29f6628f28,missed.claims,available,11.98,82.98,medium,low,6,namecheap,,,25/08/2026 01:45
 4ceb6ef6-7d0f-41da-89b1-e0c67b7177be,polynomial.claims,available,11.98,82.98,high,low,10,namecheap,,,03/09/2026 10:48
 5a484d8d-db8f-453c-8e74-3e28faa1c95f,gossamer.claims,available,11.98,82.98,medium,low,8,namecheap,,,12/08/2026 14:32
+ad6874f0-1c62-4340-9cf1-042e1fbec859,holyoke.claims,available,10.55,51.95,medium,low,7,spaceship,,,28/09/2026 08:11
 1ce256f5-680b-42c8-9446-78da00bc0c3a,corelli.claims,available,17.99,64.99,medium,low,7,namesilo,,,20/09/2026 01:37
 8587885a-97ea-4939-9dfb-8a30a441cbb1,perforated.claims,available,11.98,82.98,high,low,10,namecheap,,,08/09/2026 16:52
 79e32381-a08b-42c3-aaf1-e5c2d79ad30d,miraculous.claims,available,11.98,82.98,high,low,10,namecheap,,,21/08/2026 02:29
@@ -585,11 +639,15 @@ ca8bf846-d68b-4bc0-b504-00b1a4ed2836,grime.claims,available,11.98,82.98,medium,l
 f2f2ed1e-9e59-46a9-96b8-d5013c51b678,himself.claims,available,19.99,,medium,low,7,name.com,,,
 c2484974-defc-41f2-a546-1b8ba23e195c,turmeric.claims,available,17.99,64.99,high,low,8,namesilo,,,19/09/2026 15:28
 72186c65-e40b-48a2-b660-96883b2c6915,simulate.claims,available,11.98,82.98,high,low,8,namecheap,,,10/09/2026 05:47
+65f97072-42f0-4f76-b251-e12410e9d25b,intuition.claims,available,10.81,52.01,high,low,9,porkbun,,,28/09/2026 19:28
 22edd2ef-ab9d-4d69-8d39-929d5761f486,understanding.claims,available,11.98,82.98,high,low,13,namecheap,,,25/09/2026 11:47
 a5856d01-6f7b-4fbd-8f99-663111514f0a,nails.claims,available,19.99,,high,low,5,name.com,,,
+318badb0-d61a-4c66-bf6e-d065ef858a88,generosity.claims,available,50.2,50.2,high,low,10,cloudflare,,,29/09/2026 01:04
 333ca6f3-912f-42f0-94c8-c4f08ec28d40,defending.claims,available,11.98,82.98,high,low,9,namecheap,,,13/08/2026 23:13
+da754bb5-b395-485e-b3a2-036fd7d28796,associates.claims,available,10.55,51.95,medium,low,10,spaceship,,,28/09/2026 08:50
 b1ad7c6a-66e2-483e-8d3b-c3462c2267c0,rhythmic.claims,available,17.99,64.99,high,low,8,namesilo,,,27/09/2026 14:50
 18ad8d05-0187-4b07-816f-77690aca9da8,rankin.claims,available,17.99,64.99,high,low,6,namesilo,,,27/09/2026 04:34
+872b0265-f9df-4f55-aac0-2e2a1af88867,revival.claims,available,17.99,64.99,high,low,7,namesilo,,,29/09/2026 02:02
 a7df3e02-727a-4170-962f-99207e6c3343,albescent.claims,available,11.98,82.98,medium,low,9,namecheap,,,
 d4216eb9-6a83-42f0-a513-098c8d36f602,thrasher.claims,available,17.99,64.99,medium,low,8,namesilo,,,18/09/2026 13:24
 bc7c6ddf-becd-40c1-8437-e7580fe1b115,canyon.claims,available,17,,high,low,6,unstoppable,,,28/09/2026 05:22
@@ -612,6 +670,7 @@ b58f9b00-c3b7-4a00-a1ce-4fc70704b3f2,instruments.claims,available,10.92,53.22,hi
 c8664177-6a17-43fe-897b-85a95d785f91,calder.claims,available,11.98,82.98,high,low,6,namecheap,,,18/09/2026 05:48
 73d050dc-6b47-41f1-b9a7-252160e20b5b,exobiology.claims,available,11.98,82.98,medium,low,10,namecheap,,,20/09/2026 17:35
 bcf4a966-a2a6-413d-b608-588d9dd5cef8,gang.claims,available,19.99,,high,low,4,name.com,,,
+0386d459-0580-408e-9741-a470136f2369,shenzhen.claims,available,10.55,51.95,medium,low,8,spaceship,,,29/09/2026 04:19
 0fc39c17-1036-4590-bb8b-fbb766c41f98,penn.claims,available,17.99,64.99,high,low,4,namesilo,,,25/09/2026 09:52
 ebc1e8df-8c8e-4835-86cd-c23aee6aca19,hangar.claims,available,17.99,64.99,high,low,6,namesilo,,,17/09/2026 23:05
 de0832a2-a306-420d-9d4a-3bd9b03e9d55,jarring.claims,available,11.98,82.98,medium,low,7,namecheap,,,22/08/2026 12:26
@@ -649,7 +708,6 @@ b4a28daa-3efc-46a7-bab1-a5644f7a5709,unkeyed.claims,available,11.98,82.98,low,lo
 5857ed23-efe6-4f7c-9d7d-d92df5dc3fc7,sailed.claims,available,11.98,82.98,high,low,6,namecheap,,,17/09/2026 07:33
 bea23c15-9886-445f-857c-5b464ab9db0f,apophthegm.claims,available,11.98,82.98,medium,low,10,namecheap,,,19/09/2026 17:11
 c82ccdbd-990e-4b4b-b27e-d40b5af2f8a7,bartok.claims,available,17.99,64.99,medium,low,6,namesilo,,,22/09/2026 09:23
-45d123d2-df41-462a-b1e5-6060da013318,alley.claims,available,19.99,,medium,low,5,name.com,,,
 2c6a38a5-f17a-4c63-ac59-3afb90381e9f,discord.claims,available,,,high,medium,7,,,,
 a828a141-090b-4cd9-9de3-36bd7fb2ad60,romp.claims,available,11.98,82.98,high,low,4,namecheap,,,09/09/2026 19:26
 b9f79a99-2cff-4ef3-8f7d-f54e83381f8e,antifreeze.claims,available,17.99,64.99,medium,low,10,namesilo,,,19/09/2026 14:23
@@ -659,14 +717,14 @@ fd9b8904-f525-4c81-82a7-1025bae2106d,five.claims,available,11.98,82.98,high,low,
 f3980016-af53-4a8d-8fa2-edb64192ac45,mccartney.claims,available,10.55,51.95,medium,low,9,spaceship,,,28/09/2026 06:23
 6eae5c1d-3e2c-4afe-82e7-b3f4449d4aae,reliably.claims,available,11.98,82.98,high,low,8,namecheap,,,14/09/2026 11:46
 a0edd773-46c4-4def-8836-29ca7d782389,criticise.claims,available,19.99,,medium,low,9,name.com,,,
-4519bddb-8822-4055-aaf1-fdeef017d46d,photography.claims,available,19.99,,high,low,11,name.com,,,
+4519bddb-8822-4055-aaf1-fdeef017d46d,photography.claims,available,10.92,53.22,high,low,11,dynadot,,,28/09/2026 07:43
 3d65a94b-3ff3-4756-814f-b185ba7280ff,sorcery.claims,available,17.99,64.99,high,low,7,namesilo,,,23/09/2026 23:51
-58970513-4d4e-4c61-979c-a4ef2f2cee0e,appeal.claims,available,19.99,,high,low,6,name.com,,,
 c52cdc9a-f079-4744-9325-7d5f8a8fea93,lumbar.claims,available,11.98,82.98,high,low,6,namecheap,,,24/08/2026 11:06
 70879983-95d9-41a1-8b74-5b7960607bb6,affiliation.claims,available,19.99,,high,low,11,name.com,,,
 ed4b2ee9-4866-4a31-bff6-dc5445db64a3,djia.claims,available,19.99,,medium,low,4,name.com,,,
 512f7c25-18ff-4519-9757-b5bb31fc6594,roarer.claims,available,17.99,64.99,medium,low,6,namesilo,,,22/09/2026 16:57
 b0bfe898-040a-4f5a-a7b2-bdefbd2ecdd3,openings.claims,available,11.98,82.98,medium,low,8,namecheap,,,20/09/2026 17:50
+7a5c2ab9-b308-48e1-aad6-e884ffb2dc11,townshend.claims,available,50.2,50.2,medium,low,9,cloudflare,,,29/09/2026 04:20
 38d492fb-ad1f-4b9c-a51f-fd8f759b8127,thinks.claims,available,17.99,64.99,high,low,6,namesilo,,,18/09/2026 15:23
 7b86f8eb-b0b1-42cb-905c-b810e3703141,hoping.claims,available,17.99,64.99,high,low,6,namesilo,,,25/09/2026 11:50
 32c4da4b-a996-4792-9e12-5ecb862bafe9,katharsis.claims,available,17.99,64.99,medium,low,9,namesilo,,,16/09/2026 17:05
@@ -676,13 +734,13 @@ f708b89e-675d-46d5-879b-f430d5c2d790,lan.claims,available,19.99,,high,low,3,name
 e566fe52-6e22-47d8-a4bb-7e9d94cfd6a6,stoppers.claims,available,17.99,64.99,medium,low,8,namesilo,,,20/09/2026 12:45
 8312032e-3665-44e6-8f3b-a80eadf8d115,accessary.claims,available,11.98,82.98,medium,low,9,namecheap,,,
 697264e3-defe-463c-a98b-37329062fd66,shadow.claims,available,19.99,,high,low,6,name.com,,,
+49f1f570-fb98-491a-9b31-985d0b192542,neptune.claims,available,17.99,64.99,high,low,7,namesilo,,,29/09/2026 01:43
 092be5e1-1cf1-4393-93d5-033ce2d15dd2,harmful.claims,available,11.98,82.98,medium,low,7,namecheap,,,08/09/2026 09:32
 2a99485e-2351-466e-b26e-1d8e06cac761,jadestone.claims,available,11.98,82.98,medium,low,9,namecheap,,,22/08/2026 11:54
 55945814-1904-48b6-80e7-7b5977b11c17,breathless.claims,available,11.98,82.98,medium,low,10,namecheap,,,11/08/2026 03:23
 8de59f7c-7670-4b36-9fd6-33cd697f0d4b,ravaged.claims,available,11.98,82.98,medium,low,7,namecheap,,,14/08/2026 04:29
 d7daf2bc-e995-4d10-8037-4854616f7b9e,withdrawal.claims,available,17.99,64.99,high,low,10,namesilo,,,21/09/2026 15:22
 ec7cd35f-822d-432a-b19c-c4857e42fc88,sixpenny.claims,available,11.98,82.98,medium,low,8,namecheap,,,10/09/2026 09:06
-b40462e2-727f-4ed8-8315-ff370f3646cf,affinity.claims,available,,,high,high,8,,,,
 d8235eca-3c68-4c80-833e-5ab3522b83db,motherlike.claims,available,11.98,82.98,medium,low,10,namecheap,,,25/08/2026 07:04
 19c52772-b1c6-4a93-a781-708b2834e2b1,braille.claims,available,19.99,86.99,high,low,7,name.com,,,24/09/2026 08:01
 ab222440-465a-4894-a518-1aee36e9726d,shares.claims,available,19.99,,high,low,6,name.com,,,
@@ -712,6 +770,7 @@ b6c5415d-afdb-41cf-924f-23ed2e147b94,undertake.claims,available,17.99,64.99,high
 525bb023-a79c-4d24-a419-da6b6753def1,stove.claims,available,11.98,82.98,high,low,5,namecheap,,,19/09/2026 18:48
 287c951c-6b5d-41ab-be46-19194151b96f,veterinary.claims,available,11.98,82.98,high,low,10,namecheap,,,13/09/2026 05:00
 03260754-491f-4a8f-90d3-f50c5a2fdac5,andiron.claims,available,17.99,64.99,medium,low,7,namesilo,,,19/09/2026 04:06
+3cdc1064-7f10-4705-8957-e9a2f9918449,josephus.claims,available,10.55,51.95,medium,low,8,spaceship,,,28/09/2026 09:47
 298637fd-c76a-41dd-9e92-84a0330c8838,martial.claims,available,11.98,82.98,high,low,7,namecheap,,,24/08/2026 16:36
 ba4737f9-c2b1-4e6e-862a-3581de2d79b1,shelling.claims,available,17.99,64.99,medium,low,8,namesilo,,,22/09/2026 08:00
 b6298f80-075e-4645-8dbc-d21ace07c44e,laurel.claims,available,17.99,64.99,high,low,6,namesilo,,,20/09/2026 11:06
@@ -721,14 +780,19 @@ b6298f80-075e-4645-8dbc-d21ace07c44e,laurel.claims,available,17.99,64.99,high,lo
 ba9450c4-f66b-415a-b43d-29399af13689,monstrous.claims,available,11.98,82.98,medium,low,9,namecheap,,,07/08/2026 14:47
 c5202565-1c0b-4e87-8ef9-661358fa04b0,insurable.claims,available,11.98,82.98,high,low,9,namecheap,,,22/08/2026 07:40
 f25d24bd-1880-4509-b190-0420044bc597,sugary.claims,available,11.98,82.98,high,low,6,namecheap,,,19/09/2026 16:54
+c949d0d3-9136-4a7f-a7b6-cff83d5c68f3,missoula.claims,available,10.55,51.95,medium,low,8,spaceship,,,29/09/2026 01:41
+39bec4ab-8be9-435f-83f0-dd97cdbfe100,chung.claims,available,10.92,53.22,medium,low,5,dynadot,,,28/09/2026 16:45
 5baac405-6f1c-4356-aff5-286a454737fe,marvel.claims,available,19.99,,high,low,6,name.com,,,
 ad461b7e-225d-4c9f-a997-667de60420ad,ste.claims,available,17.99,64.99,high,low,3,namesilo,,,27/09/2026 07:49
 be2ac006-90b2-49fe-929e-79bcab582edc,smutty.claims,available,11.98,82.98,medium,low,6,namecheap,,,13/08/2026 08:53
+349c3b39-95fd-4e5c-8246-fc6264c5f9bc,carving.claims,available,17,,high,low,7,unstoppable,,,29/09/2026 00:21
 ee36d538-9a1a-470e-a86e-1fc2d0e525d4,slashed.claims,available,11.98,82.98,medium,low,7,namecheap,,,10/09/2026 10:06
+fe9d2aba-aab7-4003-8b42-aa0a1bd29499,enforcement.claims,available,50.2,50.2,high,low,11,cloudflare,,,28/09/2026 08:21
 f6682093-8004-4b03-8c58-074064a157b1,eon.claims,available,17.99,64.99,high,low,3,namesilo,,,17/09/2026 12:38
 b2aea9d0-e7e4-493b-a5ce-ca054c48970b,semihard.claims,available,11.98,82.98,medium,low,8,namecheap,,,10/09/2026 03:04
 01d5c3fd-27ee-4e36-9413-de03f6ac6566,whitaker.claims,available,17.99,64.99,high,low,8,namesilo,,,27/09/2026 20:44
 1fc14d2e-d82b-4f34-b817-bf61a8d7ce95,unveil.claims,available,19.99,,high,low,6,name.com,,,
+bcf65aaa-0676-40be-840a-161671197820,stimulation.claims,available,17.99,64.99,high,low,11,namesilo,,,29/09/2026 04:53
 db68a7be-72bc-452b-8e09-7f6efdab8548,consistent.claims,available,11.98,82.98,high,low,10,namecheap,,,12/08/2026 16:01
 f302d786-bc58-4924-8014-310eeabf6e8e,thorn.claims,available,17.99,64.99,high,low,5,namesilo,,,28/09/2026 02:10
 4dbfd9cb-ebaf-4ce0-bc74-e19cbd85dbe2,reachable.claims,available,11.98,82.98,high,low,9,namecheap,,,09/09/2026 10:55
@@ -747,6 +811,7 @@ b4eb04e0-c88f-4360-8b18-c8344660192c,predilection.claims,available,19.99,,high,l
 78ef022e-a786-4968-af94-b955d976d42f,collegiate.claims,available,11.98,82.98,high,low,10,namecheap,,,12/08/2026 17:08
 031d853d-8834-413d-b4ea-8d6f3a66603c,pawky.claims,available,11.98,82.98,medium,low,5,namecheap,,,08/09/2026 10:57
 c76d60f0-f56d-499d-8a23-5402c4992d25,carla.claims,available,17.99,64.99,high,low,5,namesilo,,,27/09/2026 07:21
+0c6dade7-aa06-47ab-a843-f15d3b25af7e,hanna.claims,available,50.2,50.2,medium,low,5,cloudflare,,,28/09/2026 07:49
 16fda79b-8633-4489-b5e5-99c1c2da6987,moral.claims,available,11.98,82.98,high,low,5,namecheap,,,25/09/2026 21:40
 bea3f807-e667-46bf-bbff-2514600d8d08,broadside.claims,available,11.98,82.98,high,low,9,namecheap,,,11/08/2026 05:04
 7538ae69-684c-42f1-a19f-57e8bd9c9c41,condor.claims,available,17.99,64.99,high,low,6,namesilo,,,24/09/2026 17:10
@@ -767,6 +832,7 @@ a03d8b16-fdb6-4823-824b-5a4d8e81d187,pervious.claims,available,11.98,82.98,mediu
 0e380300-8d40-4169-b312-3dea9531578a,expedient.claims,available,11.98,82.98,high,low,9,namecheap,,,17/08/2026 18:06
 1f6645ba-b265-4073-bffd-b7826c277b0c,fiducial.claims,available,11.98,82.98,medium,low,8,namecheap,,,18/08/2026 03:40
 1c1e9cf8-1b8b-457c-9362-84e0db1ef899,reverting.claims,available,11.98,82.98,medium,low,9,namecheap,,,09/09/2026 15:58
+16cab121-0236-4cbc-b02f-6bad9c03dd20,defender.claims,available,10.55,51.95,high,low,8,spaceship,,,28/09/2026 18:56
 8d1f009a-087a-4637-9aa8-19181c01f290,patched.claims,available,11.98,82.98,medium,low,7,namecheap,,,08/09/2026 10:18
 395b04e7-0e38-4c61-97df-6ddded8a67cb,boxer.claims,available,11.98,82.98,high,low,5,namecheap,,,28/09/2026 04:27
 761d0ef9-513e-469d-9ed2-c15ab1368029,principles.claims,available,19.99,,high,low,10,name.com,,,
@@ -786,7 +852,7 @@ e972fc1d-45a8-4d04-a286-eaf43494a86c,panamanian.claims,available,11.98,82.98,hig
 829c5699-fd08-45b3-b24a-6ca18f130e7e,assassin.claims,available,11.98,82.98,high,low,8,namecheap,,,20/09/2026 15:43
 9280ec68-f8c4-4c00-86bc-affd4c37495a,string.claims,available,17.99,64.99,high,low,6,namesilo,,,24/09/2026 07:38
 3ee672ad-a8bb-42e9-a289-3b08b6b9e761,choc.claims,available,19.99,,high,low,4,name.com,,,
-f8fc1bec-9f11-4f54-ad69-886d9fa07d6f,literary.claims,available,11.98,82.98,high,low,8,namecheap,,,24/08/2026 07:24
+f8fc1bec-9f11-4f54-ad69-886d9fa07d6f,literary.claims,available,17.99,64.99,high,low,8,namesilo,,,28/09/2026 07:59
 c1c29f69-c8b2-4602-b5e2-72ae9c73cf5a,redberry.claims,available,17.99,64.99,medium,low,8,namesilo,,,17/09/2026 04:20
 16e2e124-47e8-4948-93e8-6fd33df91f12,offroader.claims,available,17.99,64.99,medium,low,10,namesilo,,,18/09/2026 09:00
 1e138a60-ca19-42c1-b775-236e8f6cc8ad,willamette.claims,available,17.99,64.99,medium,low,10,namesilo,,,27/09/2026 16:20
@@ -797,6 +863,8 @@ b30925ef-82fd-43a6-8557-c6dbf35f5c00,bladed.claims,available,11.98,82.98,medium,
 f5f83a8a-54f2-4ff6-b49b-f0acb4a414f9,subscribe.claims,available,10.55,51.95,high,low,9,spaceship,,,27/09/2026 22:05
 18521411-2cfe-46d0-9f53-1f07728b3e03,watered.claims,available,11.98,82.98,medium,low,7,namecheap,,,25/08/2026 03:28
 ebad67d7-03ca-4b7f-b14f-7777f9912c2c,ill.claims,available,17.99,64.99,high,low,3,namesilo,,,25/09/2026 07:33
+8fdd2bea-7e58-4fb7-822e-3a70db65d336,whipple.claims,available,10.55,51.95,medium,low,7,spaceship,,,28/09/2026 16:10
+0cf41b7f-1ae6-4c1c-8b40-1789c282aed3,fled.claims,available,11.98,82.98,low,low,4,namecheap,,,28/09/2026 12:32
 cd0958d9-593d-4741-9f10-89d2e926907e,revocable.claims,available,11.98,82.98,medium,low,9,namecheap,,,09/09/2026 16:21
 9cc08fd3-06f9-4100-bf77-01bc84ab05e4,hostelry.claims,available,19.99,86.99,medium,low,8,name.com,,,21/09/2026 02:26
 ec4b9bb8-30dc-41ed-b5ba-0ed102d6a476,tackle.claims,available,17.99,64.99,high,low,6,namesilo,,,28/09/2026 05:46
@@ -805,6 +873,7 @@ ec4b9bb8-30dc-41ed-b5ba-0ed102d6a476,tackle.claims,available,17.99,64.99,high,lo
 c86e1be0-d557-4b08-8e80-e73430fa9568,guarnieri.claims,available,17.99,64.99,medium,low,9,namesilo,,,19/09/2026 04:23
 63d3c363-e8d2-4241-91db-915602deb214,avocado.claims,available,17.99,64.99,high,low,7,namesilo,,,22/09/2026 14:34
 caa991af-47de-4447-af67-26be7c977936,shorted.claims,available,11.98,82.98,medium,low,7,namecheap,,,20/09/2026 16:13
+3e5fb6d6-8e87-47df-84b4-35f0232fae4e,thy.claims,available,11.98,82.98,medium,low,3,namecheap,,,28/09/2026 15:36
 f871fb5e-5ae2-4cc8-a334-afdee18e10f2,means.claims,available,19.99,,high,low,5,name.com,,,
 2478a540-261d-4968-a610-765abd66a531,walters.claims,available,11.98,82.98,medium,low,7,namecheap,,,25/09/2026 15:56
 fb8a3df8-3eb1-4833-939e-ed04220923c0,bassoonist.claims,available,17.99,64.99,medium,low,10,namesilo,,,22/09/2026 12:33
@@ -814,6 +883,7 @@ c1ad3ffa-808c-42db-aca1-4b46394ea807,wiggler.claims,available,17.99,64.99,medium
 b8f7c021-ced1-4d61-ac7b-eecbbc3f7b96,lawson.claims,available,17.99,64.99,high,low,6,namesilo,,,25/09/2026 12:31
 8dcfcc45-eb6b-4707-aa28-f2be22f34214,affecting.claims,available,11.98,82.98,high,low,9,namecheap,,,
 211986e0-e7a7-4b61-a540-ed1f07d90d70,zest.claims,available,19.99,,high,low,4,name.com,,,
+9b266cf4-36dd-48d6-88db-b937da7768ee,surgeons.claims,available,10.81,52.01,medium,low,8,porkbun,,,28/09/2026 17:27
 0cec7d3b-c6a1-424f-84b1-abe9edf7a996,epistemic.claims,available,11.98,82.98,medium,low,9,namecheap,,,17/08/2026 11:13
 c27e0810-142d-4d5e-84af-2211f44ee5ba,crack.claims,available,11.98,82.98,high,low,5,namecheap,,,
 4f79891d-c1d1-496b-9ba6-112e128b6453,montagu.claims,available,11.98,82.98,medium,low,7,namecheap,,,20/09/2026 13:56
@@ -836,9 +906,11 @@ d02a9448-71b4-4907-b93f-94b230411da1,slighting.claims,available,11.98,82.98,medi
 92f3eb12-f520-494c-9560-0bf86f2e9023,semiformal.claims,available,11.98,82.98,high,low,10,namecheap,,,10/08/2026 11:42
 fff62ef4-9039-4398-9644-fde3f8ad2a3a,balaton.claims,available,11.98,82.98,medium,low,7,namecheap,,,21/09/2026 21:18
 c7fbe1cf-deb7-476c-a319-0544e1053fae,offerings.claims,available,17.99,64.99,medium,low,9,namesilo,,,18/09/2026 10:39
+d0b93146-b540-4f58-91af-51ce1a984597,proposing.claims,available,17.99,64.99,medium,low,9,namesilo,,,28/09/2026 22:53
 08130240-4676-4474-9462-4cccfe5182a7,brady.claims,available,17.99,64.99,high,low,5,namesilo,,,25/09/2026 02:15
 e5f24b66-0112-4728-afa4-44c51d02d957,foldable.claims,available,11.98,82.98,high,low,8,namecheap,,,18/08/2026 10:06
 3787a1c9-38e8-4500-a668-e0ee16d54f3e,torture.claims,available,11.98,82.98,high,low,7,namecheap,,,11/09/2026 18:03
+f8c71ddd-4efb-498d-9dbe-e9ba6535765c,jenna.claims,available,10.55,51.95,medium,low,5,spaceship,,,29/09/2026 04:01
 9cefbbb3-5f95-48da-a1c5-8d2e74622ae6,wolfe.claims,available,11.98,82.98,high,low,5,namecheap,,,25/09/2026 10:55
 138f8cad-2ef1-4519-ae7b-8414e47ddb17,windsock.claims,available,11.98,82.98,medium,low,8,namecheap,,,17/09/2026 21:40
 c482944c-0cf0-40ab-b70c-a03c845a909b,downy.claims,available,11.98,82.98,high,low,5,namecheap,,,14/08/2026 17:40
@@ -846,6 +918,7 @@ c482944c-0cf0-40ab-b70c-a03c845a909b,downy.claims,available,11.98,82.98,high,low
 2c5b62f3-b887-483d-87f7-ed6d6fd12e67,voluptuous.claims,available,11.98,82.98,high,low,10,namecheap,,,10/08/2026 20:39
 e8fd28c0-af96-40ad-8a31-a4b80afab067,invitation.claims,available,19.99,,high,low,10,name.com,,,
 c951e2c4-8c2d-4534-aeb6-e631d6507f39,lithic.claims,available,11.98,82.98,medium,low,6,namecheap,,,24/08/2026 07:28
+cdb36c16-7983-4b0b-82e8-1f4093b00d42,tac.claims,available,50.2,50.2,high,low,3,cloudflare,,,28/09/2026 23:09
 8aa64d66-7980-4af0-9f03-83dabc956e21,redeemable.claims,available,11.98,82.98,high,low,10,namecheap,,,11/08/2026 20:14
 09e647e9-422a-4461-b98f-7be29582572a,devotion.claims,available,19.99,,high,low,8,name.com,,,
 be2aee46-a428-48aa-a34e-fb4e7153f67e,timetables.claims,available,17.99,64.99,medium,low,10,namesilo,,,20/09/2026 12:23
@@ -864,6 +937,7 @@ a637f1bd-79a7-4944-b211-f15b80473af1,mechanical.claims,available,17.99,64.99,hig
 f1d8f639-8d2f-4eb4-ac5e-3c7f2d04fc87,libby.claims,available,11.98,82.98,high,low,5,namecheap,,,28/09/2026 02:15
 ce0f98e1-052c-4144-b10e-f0bc8b33ce47,sestet.claims,available,11.98,82.98,medium,low,6,namecheap,,,
 6b52fb18-e2e9-493a-959a-4b8abddfd6bb,birchbark.claims,available,11.98,82.98,medium,low,9,namecheap,,,23/09/2026 19:23
+f96f225b-9005-4ee5-951d-653a3466763b,darryl.claims,available,10.92,53.22,medium,low,6,dynadot,,,28/09/2026 21:59
 c3e4fd98-01c7-4219-b025-83a4f5c99367,ideal.claims,available,11.98,82.98,high,low,5,namecheap,,,25/09/2026 07:17
 eaf99ab7-1374-4e91-9451-79edc74e895a,quiesce.claims,available,11.98,82.98,medium,low,7,namecheap,,,09/09/2026 08:52
 dc707bfd-1ca8-4438-9db1-f37276a7888f,attentive.claims,available,17.99,64.99,high,low,9,namesilo,,,22/09/2026 11:22
@@ -906,11 +980,12 @@ cb1f6efb-6973-4669-9673-83e541dd2240,ascaris.claims,available,17.99,64.99,medium
 b58349f2-5304-41fd-8697-df4013dd82d8,dissected.claims,available,11.98,82.98,medium,low,9,namecheap,,,12/08/2026 10:41
 9c652242-236b-48d3-98b9-430a63d58ca1,tesla.claims,available,,,high,medium,5,,,,
 8c8b78dd-0cde-4b9c-85fb-e07e41a22c89,anthidium.claims,available,11.98,82.98,medium,low,9,namecheap,,,19/09/2026 13:22
+cefcbdbf-3b60-4c2a-97c9-39eeaa0ce1a8,manor.claims,available,10.55,51.95,high,low,5,spaceship,,,28/09/2026 19:49
 ee7a3c98-07d1-4570-8c85-e403cdfb3102,interest.claims,available,11.98,82.98,high,low,8,namecheap,,,08/09/2026 14:02
-6eeec701-7e01-4ae3-87c7-884dd03a2b42,cheese.claims,available,17.99,64.99,high,low,6,namesilo,,,25/09/2026 04:54
-68190c9c-529a-47c7-b70d-d9cbe5a3ac51,scientist.claims,available,11.98,82.98,high,low,9,namecheap,,,25/09/2026 04:30
+6eeec701-7e01-4ae3-87c7-884dd03a2b42,cheese.claims,available,17.99,64.99,high,low,6,namesilo,,,28/09/2026 12:55
+68190c9c-529a-47c7-b70d-d9cbe5a3ac51,scientist.claims,available,17.99,64.99,high,low,9,namesilo,,,28/09/2026 12:32
 82b4cc15-951f-4875-9679-89a22bb33206,secondary.claims,available,17.99,64.99,high,low,9,namesilo,,,25/09/2026 12:14
-8aff5ed9-3d75-4e9f-b64f-057c036b3f07,butcher.claims,available,19.99,,high,low,7,name.com,,,
+8aff5ed9-3d75-4e9f-b64f-057c036b3f07,butcher.claims,available,17.99,64.99,medium,low,7,namesilo,,,29/09/2026 03:05
 cdad0ff1-d70b-4212-b4f7-aef072cbb498,expertise.claims,available,19.99,,high,low,9,name.com,,,
 87f9d4cb-5b34-425b-abb7-6203ce11fae0,sustained.claims,available,11.98,82.98,high,low,9,namecheap,,,18/08/2026 14:51
 0ee403ab-e06e-4897-a34c-0c6cb5457d37,longitude.claims,available,19.99,,high,low,9,name.com,,,
@@ -920,82 +995,7 @@ cdad0ff1-d70b-4212-b4f7-aef072cbb498,expertise.claims,available,19.99,,high,low,
 65d90dbc-7798-42f7-b1c4-bccd1a00d556,intrigue.claims,available,19.99,,high,low,8,name.com,,,
 00a82f38-8be0-4f0f-8ca9-51b54b884182,irritating.claims,available,11.98,82.98,medium,low,10,namecheap,,,
 24c95679-d6cf-4c80-b2e8-88e3af487e83,tower.claims,available,19.99,,high,low,5,name.com,,,
+382b10c0-5669-4dab-b044-52ff3f7bf9f7,osman.claims,available,17.99,64.99,medium,low,5,namesilo,,,28/09/2026 22:06
 5d06dd66-a501-4f9f-802b-6672f76c342d,hypo.claims,available,11.98,82.98,high,low,4,namecheap,,,21/08/2026 17:15
 ff32b7f1-4dc2-45d5-909b-ce35e522cc70,craniate.claims,available,11.98,82.98,medium,low,8,namecheap,,,13/09/2026 04:37
 3136e253-89c6-4e91-9d5f-94e1c2c0e08c,fractions.claims,available,17.99,64.99,medium,low,9,namesilo,,,20/09/2026 01:27
-f66548e8-39cd-41b1-9873-e525570c33c5,unlatched.claims,available,11.98,82.98,medium,low,9,namecheap,,,12/09/2026 01:38
-5623c02d-2b0a-4b00-b9e0-875d858c408a,biretta.claims,available,17.99,64.99,medium,low,7,namesilo,,,23/09/2026 10:06
-4b8c51f0-4e9a-4ddd-bdaa-5347ffc6077b,mum.claims,available,17.99,64.99,high,low,3,namesilo,,,25/09/2026 22:08
-ac2b8b59-ff18-49dc-98f4-42f82a02675c,adman.claims,available,11.98,82.98,medium,low,5,namecheap,,,17/09/2026 08:40
-8236964f-f7f0-4bbc-a99a-e9bfa8aa52c4,heterodox.claims,available,11.98,82.98,medium,low,9,namecheap,,,14/08/2026 12:37
-b81a071a-8f68-4a8c-b85d-fb98d63f4d62,occupant.claims,available,11.98,82.98,high,low,8,namecheap,,,09/09/2026 14:52
-1508048d-717f-4b30-9121-d731256c2d8a,concisely.claims,available,11.98,82.98,medium,low,9,namecheap,,,14/09/2026 08:10
-19d7b76e-6f88-4f4c-9925-9802f14aa66a,devotional.claims,available,11.98,82.98,high,low,10,namecheap,,,14/08/2026 05:15
-cb5e9c89-1a1a-464c-bbd9-45b7aa83372c,supplies.claims,available,19.99,,medium,low,8,name.com,,,
-ac209b8a-1fda-46d7-b618-f76c75ce9a2f,particles.claims,available,19.99,,medium,low,9,name.com,,,
-b581353c-8edb-457c-b869-382a83adb705,trifling.claims,available,11.98,82.98,medium,low,8,namecheap,,,05/09/2026 00:21
-d914dd05-4bde-4314-b96a-567479ee2faf,alleged.claims,available,11.98,82.98,high,low,7,namecheap,,,22/09/2026 01:19
-fe8fa9c2-241f-4935-ac60-ccc4b4502afb,hurts.claims,available,10.81,52.01,medium,low,5,porkbun,,,27/09/2026 23:53
-82e0036c-59cf-4f0d-8913-246f8b696de1,credal.claims,available,11.98,82.98,medium,low,6,namecheap,,,13/08/2026 05:52
-620d9a20-87f4-462a-b188-bb4a223753b1,anorak.claims,available,11.98,82.98,medium,low,6,namecheap,,,19/09/2026 11:41
-db31934d-9218-4bd9-8441-a55f988cb589,textile.claims,available,17,,high,low,7,unstoppable,,,28/09/2026 02:25
-ac17b588-e8d9-4d8c-956f-98e6b25cc0fe,absorbent.claims,available,11.98,82.98,high,low,9,namecheap,,,
-9cc5a661-e1ca-4b23-966a-641c6ca79d17,aversion.claims,available,17.99,64.99,medium,low,8,namesilo,,,19/09/2026 14:54
-c61f3019-6180-47a4-acbe-26151c33b8e3,elongated.claims,available,11.98,82.98,medium,low,9,namecheap,,,16/08/2026 05:26
-2a2a7951-1ee6-4fa8-acaa-4265d9de51c0,rental.claims,available,11.98,82.98,high,low,6,namecheap,,,09/09/2026 14:17
-42626fa7-107a-4283-8dd3-6c464bdea3d3,saturday.claims,available,19.99,,high,low,8,name.com,,,
-4c22049e-b532-42b1-a53b-6fd176fcc977,wiccan.claims,available,11.98,82.98,medium,low,6,namecheap,,,13/09/2026 11:46
-aedf3449-ad5c-4f0a-811d-28b124c73372,voluntary.claims,available,11.98,82.98,high,low,9,namecheap,,,13/09/2026 07:07
-79911b2f-33bc-42ce-8d1a-8bdc4bbbf3d1,apathetic.claims,available,11.98,82.98,medium,low,9,namecheap,,,05/08/2026 22:04
-6886d927-fc85-4856-837d-21c2972c8484,swear.claims,available,11.98,82.98,high,low,5,namecheap,,,24/09/2026 20:32
-ceb43bb6-70ff-4d09-bb1a-ac533b38e3e7,synoptical.claims,available,11.98,82.98,medium,low,10,namecheap,,,11/09/2026 06:35
-c2112ed0-669f-49ef-ac80-6d0cd6f9ea25,fossilized.claims,available,11.98,82.98,medium,low,10,namecheap,,,18/08/2026 13:12
-19d75788-119e-4cfa-a5ff-0fd508e50dad,trice.claims,available,11.98,82.98,medium,low,5,namecheap,,,22/08/2026 07:32
-8e4239a5-3e31-4193-89e1-7a5c3f9981fd,cortical.claims,available,11.98,82.98,medium,low,8,namecheap,,,13/08/2026 02:35
-5f64e6c0-1338-4039-ac1d-b41eed68086f,ovine.claims,available,11.98,82.98,medium,low,5,namecheap,,,04/09/2026 22:07
-2f223149-6333-4a3d-b2d2-0f876aeb73af,sidney.claims,available,11.98,82.98,high,low,6,namecheap,,,27/09/2026 05:44
-0df8057f-5fc5-444a-a2d2-a6323c14652b,diclinous.claims,available,11.98,82.98,low,low,9,namecheap,,,14/08/2026 06:34
-b4cc9496-555f-4131-86a5-4423bc716ec7,named.claims,available,19.99,,high,low,5,name.com,,,
-545bada7-9a04-43b0-8d41-189bd196bff5,operating.claims,available,11.98,82.98,high,low,9,namecheap,,,04/09/2026 16:26
-11a09d60-7239-4678-9797-84581941f87b,absolutist.claims,available,11.98,82.98,high,low,10,namecheap,,,
-d5e3cf0a-8bcb-4ffc-956a-2586a3169011,powered.claims,available,17.99,64.99,high,low,7,namesilo,,,27/09/2026 04:51
-f91cc079-0b50-4a91-aab6-ab0520f559d0,riemannian.claims,available,11.98,82.98,medium,low,10,namecheap,,,09/09/2026 17:21
-b0495b02-2bbd-4985-8e0a-7d92b61cfd83,early.claims,available,11.98,82.98,high,low,5,namecheap,,,24/09/2026 12:57
-863599bc-3579-42fd-801e-6c6ad12fe2e2,viatical.claims,available,11.98,82.98,medium,low,8,namecheap,,,13/09/2026 05:03
-37766e15-ddd6-4c18-a3ea-56c9644ecb96,parve.claims,available,11.98,82.98,medium,low,5,namecheap,,,08/09/2026 01:27
-c1c1ea52-2938-4dcd-a5e5-f41f4e3b8e16,resists.claims,available,17.99,64.99,medium,low,7,namesilo,,,18/09/2026 10:58
-e4ee4b00-6be0-40a3-8274-a407882159a3,bennington.claims,available,17.99,64.99,high,low,10,namesilo,,,23/09/2026 08:33
-bc34d1e8-7f64-4ac2-80f1-82b9d755341e,catcher.claims,available,17.99,64.99,high,low,7,namesilo,,,21/09/2026 16:05
-77a2389e-6ddf-4286-8e3b-94e44724c514,primitive.claims,available,17.99,64.99,high,low,9,namesilo,,,27/09/2026 05:47
-f772b223-1083-4aff-903f-495e5db003bb,ruthenium.claims,available,17.99,64.99,medium,low,9,namesilo,,,20/09/2026 23:08
-a10b31bd-9c29-46a6-8786-112b406878a5,alienator.claims,available,17.99,64.99,medium,low,9,namesilo,,,18/09/2026 07:36
-bf46ecf2-8a6c-4fe2-af50-b2f55e5c92da,woven.claims,available,19.99,,high,low,5,name.com,,,
-a64d5acd-75ce-4d4d-af40-23210d9c2fb6,gaston.claims,available,17.99,64.99,high,low,6,namesilo,,,25/09/2026 12:38
-7a8f5623-b70e-488f-bb40-c5bbe42b4fa0,outpouring.claims,available,17.99,64.99,high,low,10,namesilo,,,22/09/2026 07:58
-46aad913-161a-425d-b5c2-472ada9b286d,vendor.claims,available,10.55,51.95,high,low,6,spaceship,,,28/09/2026 02:42
-ff3b679a-b7db-48b4-b718-fd52f3dfe77e,tooth.claims,available,11.98,82.98,high,low,5,namecheap,,,19/09/2026 18:20
-2e556659-8251-4dad-95b9-0805805cf44a,crownless.claims,available,11.98,82.98,medium,low,9,namecheap,,,13/08/2026 08:38
-010ff445-19bd-4a20-8e78-ebe5851fd652,howl.claims,available,17.99,64.99,high,low,4,namesilo,,,25/09/2026 00:27
-39b8c2fd-b888-481c-894e-54b947795a66,humiliated.claims,available,11.98,82.98,medium,low,10,namecheap,,,21/08/2026 15:03
-e07df18b-69cf-4dc8-be60-435e3f0401de,nursery.claims,available,17.99,64.99,high,low,7,namesilo,,,24/09/2026 23:01
-a0934248-7198-483d-a2a5-88356d93a4a0,reciprocal.claims,available,11.98,82.98,high,low,10,namecheap,,,09/09/2026 11:29
-ed94decf-805d-4235-b04c-fb3941e54878,stannic.claims,available,11.98,82.98,low,low,7,namecheap,,,10/09/2026 18:41
-f1f68276-a929-4eff-88db-b126b96e74c0,tending.claims,available,11.98,82.98,high,low,7,namecheap,,,11/09/2026 11:15
-1647f017-6ef5-443b-97df-aadc9bb40034,firmly.claims,available,17.99,64.99,high,low,6,namesilo,,,19/09/2026 17:07
-70e5bea8-3606-4996-bea2-78fe9450fb93,rigil.claims,available,17.99,64.99,medium,low,5,namesilo,,,18/09/2026 13:35
-ab7c4dd2-0a8d-4a8e-a162-66d8f597001c,muggy.claims,available,11.98,82.98,medium,low,5,namecheap,,,03/09/2026 10:31
-9337c286-2d24-4df2-bc87-0c5138d0a97d,ecosystem.claims,available,17.99,64.99,high,low,9,namesilo,,,28/09/2026 02:43
-3b69bd71-9e5e-4a36-8659-44522de7065d,xavier.claims,available,17.99,64.99,high,low,6,namesilo,,,25/09/2026 10:30
-fe0d4881-a531-4d4d-9b8b-b7f6b51ea7e3,impossibly.claims,available,11.98,82.98,medium,low,10,namecheap,,,15/09/2026 04:27
-398b85f8-e087-4c2d-a558-41a196516193,starlike.claims,available,11.98,82.98,medium,low,8,namecheap,,,10/09/2026 18:54
-e656ff88-6078-4b51-b174-30aafd4a7e80,figural.claims,available,11.98,82.98,medium,low,7,namecheap,,,18/08/2026 03:51
-87d9db74-6326-4545-8b02-b7df5f9c9db2,ventura.claims,available,17.99,64.99,high,low,7,namesilo,,,25/09/2026 16:33
-1a0f3dc1-e72c-430a-a0bb-ed52274238a4,organiser.claims,available,17.99,64.99,high,low,9,namesilo,,,20/09/2026 08:46
-174ad2a3-cdd7-4de8-aa88-f4295d20dcbb,depressant.claims,available,11.98,82.98,medium,low,10,namecheap,,,14/08/2026 02:39
-e40165de-666c-4f4f-bd67-9b105f420ec9,downscale.claims,available,11.98,82.98,medium,low,9,namecheap,,,14/08/2026 17:52
-a70a4593-e184-4612-b21d-e0877d3f64f8,devout.claims,available,11.98,82.98,high,low,6,namecheap,,,14/08/2026 05:17
-2b5a9ea7-d732-43fd-902b-059b77668ced,disjointed.claims,available,11.98,82.98,medium,low,10,namecheap,,,14/08/2026 11:16
-7d365c1d-a634-49fd-9507-5f77490fd2d0,milliliter.claims,available,11.98,82.98,medium,low,10,namecheap,,,11/08/2026 22:53
-cd7d9fe1-64b0-4ef3-b346-8af0848076b6,uncounted.claims,available,11.98,82.98,medium,low,9,namecheap,,,13/08/2026 03:44
-8b2c70cb-0b4d-4f52-9286-e1631ce7def1,lxxiv.claims,available,11.98,82.98,medium,low,5,namecheap,,,
-bea3be5d-666e-4fa4-933c-ee7dc0413fcb,dendritic.claims,available,11.98,82.98,medium,low,9,namecheap,,,14/08/2026 01:48
